@@ -1,0 +1,2149 @@
+restaurant_name,country,city,locality,predicted_rating
+Sandubas Caf��,Brazil,Brasília,Asa Sul,3.64824169973915
+Quiosque Chopp Brahma,Brazil,Rio de Janeiro,Madureira,4.45540644070487
+Cantinho da Gula,Brazil,São Paulo,Itaim Bibi,4.159065087873746
+Divino Fog��o,Brazil,São Paulo,"Shopping Metr�� Santa Cruz, Vila Mariana",4.100298244124797
+Super Grill,Brazil,São Paulo,"Shopping Morumbi, Santo Amaro",4.104407123147329
+Frick's Tap,United States,Davenport,Davenport,4.081631027292534
+Los Agaves,United States,Davenport,Davenport,4.124686128151524
+Nosh Mahal,United States,Pocatello,Pocatello,3.731709191517724
+Aggarwal Sweet Corner,India,Faridabad,Badarpur Border,2.8793751590981898
+Kashyap Vaishno Dhaba,India,Faridabad,Badarpur Border,2.9267953071535633
+Total Food Court,India,Faridabad,Badarpur Border,2.9873290771698744
+The Chaiwalas,India,Faridabad,Badkal Lake,3.0936898809206808
+Aapki Rasoi,India,Faridabad,Charmwood Village,2.9700039249930223
+Fusion Food Corner,India,Faridabad,Charmwood Village,2.973754429086424
+Punjabi Rasoi,India,Faridabad,Charmwood Village,2.9702458483472274
+Baskin Robbin,India,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",3.245077957564085
+Popcorn Fusion,India,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",3.1548739558719836
+Subway,India,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",3.0906592349043356
+Jai Jagannath Hotel,India,Faridabad,Dayal Bagh,3.06424084727674
+Maggi Point,India,Faridabad,"Eldeco Station 1 Mall, Sector 12, Faridabad",3.087566584598721
+Angaar,India,Faridabad,"Hotel Saffron Kiran, Faridabad",3.090655712861561
+TcozY,India,Faridabad,"Hotel Saffron Kiran, Faridabad",3.293883073185931
+The Retriever,India,Faridabad,"Hotel Saffron Kiran, Faridabad",3.1899876444904596
+Bangali Sweets & Restaurant,India,Faridabad,Indraprastha Colony,3.0826900586551274
+Silver,India,Faridabad,K Hotel,3.130113811902156
+Chill 'N Grill,India,Faridabad,NIT,3.0906307013200642
+Punjabi Restaurant,India,Faridabad,NIT,3.064124950259193
+Standard Chicken Point,India,Faridabad,NIT,3.1203822207669485
+The Grillz & Gravy,India,Faridabad,NIT,2.9611128855665374
+Little Cafe,India,Faridabad,"Parsavnath City Mall, Sector 12, Faridabad",3.0587947026675533
+Giani's,India,Faridabad,Sector 10,3.1779652975857546
+Invitation,India,Faridabad,Sector 10,3.0610988764431264
+New Dilight,India,Faridabad,Sector 10,2.9687651555128856
+City Dhaba,India,Faridabad,Sector 12,2.94724302802468
+Garam Masala,India,Faridabad,Sector 12,2.967718487742096
+Mittal Fast Food,India,Faridabad,Sector 12,2.9898406105390887
+Apna Restaurant,India,Faridabad,Sector 16,2.984556188719105
+Chaudhary Chaap & Chinese,India,Faridabad,Sector 16,2.903777628130759
+Chings Chinese,India,Faridabad,Sector 16,2.9399156776991986
+Food On Wheels,India,Faridabad,Sector 16,2.9402071799133918
+Gulshan Hotel,India,Faridabad,Sector 16,3.015532609435618
+Maa Kali Foods,India,Faridabad,Sector 16,2.9565537611088724
+The Street Kitchen,India,Faridabad,Sector 16,2.8701769537595894
+United Kitchen,India,Faridabad,Sector 16,3.128511386166021
+Tmos Cafe Corner,India,Faridabad,Sector 17,3.5258650525039332
+Anand Dhaba,India,Faridabad,Sector 21,3.013912469554013
+Bikaneri Sweets & Restaurant,India,Faridabad,Sector 21,2.9167483014425843
+Delicieux Ice Cream Rolls,India,Faridabad,Sector 21,3.2761782942029107
+Flying Tandoor,India,Faridabad,Sector 21,3.0653518207487718
+Food Station,India,Faridabad,Sector 21,2.9662344071804267
+Grub Hub,India,Faridabad,Sector 21,3.118379651751471
+Punjabi Chulha,India,Faridabad,Sector 21,3.0324914452629645
+Purani Dilli Da Swad,India,Faridabad,Sector 21,2.9891286955551584
+The BBQ Garden,India,Faridabad,Sector 21,3.0627566393984953
+The Chaiwalas,India,Faridabad,Sector 21,3.131357753354693
+Hungry Head,India,Faridabad,Sector 28,3.1099618233401696
+Tandoori Hut,India,Faridabad,Sector 28,3.064086667534565
+Tamasha In Tafree,India,Faridabad,Sector 29,3.21407600614483
+Oh My!,India,Faridabad,Sector 30,3.104105992805766
+Ahata,India,Faridabad,Sector 31,3.0305507240028824
+Fritrolla,India,Faridabad,Sector 31,3.2152400360222115
+KitchenYard,India,Faridabad,Sector 31,3.05897139377967
+Meghansh Bakery,India,Faridabad,Sector 31,3.1697044622186663
+Oh My !,India,Faridabad,Sector 31,2.9878834219714623
+The Dark Hour - Kitchen,India,Faridabad,Sector 31,3.1529641543924845
+Bikaner Misthan Bhandar,India,Faridabad,Sector 35,3.126504698563889
+King's Kitchen,India,Faridabad,Sector 35,2.998750185012719
+Muradabadi Chicken Biryani Corner,India,Faridabad,Sector 35,3.131468743348716
+The Black Kettle,India,Faridabad,Sector 35,3.245515203013822
+Aggarwal Sweets And Caterers,India,Faridabad,Sector 37,3.1158573050817946
+Biryani Bot,India,Faridabad,Sector 37,3.2257292389978502
+Caf�� Kitchen,India,Faridabad,Sector 37,3.0253828888822754
+Evergreen Sweets & Restaurant,India,Faridabad,Sector 37,2.9812370711083616
+Magic Spice Wok,India,Faridabad,Sector 37,3.116880168286131
+Magical Momos,India,Faridabad,Sector 37,3.0468902173535093
+Sam's Bake Shop,India,Faridabad,Sector 37,3.1328855876740946
+Shri Bikaner Misthan Bhandar,India,Faridabad,Sector 37,3.1157926374428833
+Tasty Dhaba Family Restaurant,India,Faridabad,Sector 37,3.0656675674057823
+U & I,India,Faridabad,Sector 37,2.993539700596817
+Evergreen Tandoori Night,India,Faridabad,Sector 41,3.012313482686845
+Prelibato,India,Faridabad,Sector 41,3.108014646853604
+Aravali Owls,India,Faridabad,Sector 42,2.9316554488230055
+Chicken Inn Family Meat Shop,India,Faridabad,Sector 42,3.0131786761544284
+Mother's Kitchen,India,Faridabad,Sector 42,2.9730621749617727
+Aggarwal's Bikaner Mishthan Bhandar,India,Faridabad,Sector 43,2.9439057536714675
+Aravalli Owls,India,Faridabad,Sector 43,2.9841095376690197
+Chatny Delight,India,Faridabad,Sector 43,3.021644043910657
+Harmann Restaurant,India,Faridabad,Sector 43,2.9307972526431336
+Kulcha King,India,Faridabad,Sector 43,3.0015826758520783
+Royal Bakers,India,Faridabad,Sector 43,3.069782164221918
+Touch of Spice,India,Faridabad,Sector 43,2.947037031913988
+Sri Meenakshi South Indian Food,India,Faridabad,Sector 46,3.053788196386202
+Sardar A Pure Meat Shop,India,Faridabad,Sector 49,2.977926590497658
+Pizza Express,India,Faridabad,Sector 7,3.0249818027482522
+Bake Your Dreamz,India,Faridabad,Sector 9,3.1704830553642602
+Green Chilly Chinese Food,India,Faridabad,Sector 9,3.013287427168458
+Mom's Kitchen,India,Faridabad,Sector 9,3.076944128413878
+The Baking Treats N More,India,Faridabad,Sector 9,3.096419611265922
+Twin Brothers,India,Faridabad,"SRS Mall, Sector 12, Faridabad",3.104323564791346
+Bikaner Sweets & Bakers,India,Faridabad,Suraj Kund,2.829999493340773
+Burger Xpress,India,Faridabad,Suraj Kund,2.9932930397534374
+Da Pizza Zone,India,Faridabad,Suraj Kund,3.1144711856892284
+Finger Licious,India,Faridabad,Suraj Kund,3.0515463631357513
+Med E Taste,India,Faridabad,Suraj Kund,3.0888613217266725
+Punjabii Tandoor,India,Faridabad,Suraj Kund,3.006558198233736
+Shankar Sweets,India,Faridabad,Suraj Kund,2.8248249850153586
+Tasty Bites,India,Faridabad,Suraj Kund,2.942342496289559
+The Street- Curries & Grills,India,Faridabad,Suraj Kund,3.0589706314051055
+Mitalis Kitchen,India,Ghaziabad,Indirapuram,3.1538134047990054
+The Big Scoop,India,Ghaziabad,Kaushambi,3.2483392562803157
+Mx Corn,India,Gurgaon,"Ansal Plaza Mall, Palam Vihar",3.0234346450322076
+Achoos Food Corner,India,Gurgaon,Ardee City,3.032078373807866
+Aha Bites,India,Gurgaon,Ardee City,3.0307980150718232
+Ancient Spice,India,Gurgaon,Ardee City,2.977501455353265
+Chimney - The Takeaway,India,Gurgaon,Ardee City,2.989724279257337
+Costa Coffee,India,Gurgaon,Ardee City,3.126643279896258
+Good to Go,India,Gurgaon,Ardee City,3.349920365150485
+Gopi Sweets & Caters,India,Gurgaon,Ardee City,2.987698580597127
+Late Night Food,India,Gurgaon,Ardee City,2.900787466647169
+Lavi Foji Dhaba,India,Gurgaon,Ardee City,3.041928351086842
+Narayan Fast Food Home,India,Gurgaon,Ardee City,2.965901760530863
+OMG Kitchenz,India,Gurgaon,Ardee City,3.170203770246686
+OMG Tiffinz,India,Gurgaon,Ardee City,2.985857373682949
+Sardarji Chicken Point,India,Gurgaon,Ardee City,2.9365916633451414
+Solty Hotel,India,Gurgaon,Ardee City,3.033146398829237
+Tanishk Gourmet Indian,India,Gurgaon,Ardee City,3.111253787489579
+The Burger Chef,India,Gurgaon,Ardee City,3.082254298683643
+Courtyard Grill - Courtyard by Marriott,India,Gurgaon,"Courtyard by Marriott, Sushant Lok",3.364739816484147
+Baskin Robbins,India,Gurgaon,"DLF Mega Mall, DLF Phase 1",3.134230300928867
+Eggzellent,India,Gurgaon,DLF Phase 1,3.4378058972694525
+High On Tea,India,Gurgaon,DLF Phase 1,3.3676136883323373
+Sona Bridge Hotel,India,Gurgaon,DLF Phase 1,3.0594066907075415
+Yo! Dimsum,India,Gurgaon,DLF Phase 1,3.1295632354953136
+Ashoka Snacks Corner,India,Gurgaon,DLF Phase 2,3.2234340990584904
+Chefoncalls,India,Gurgaon,DLF Phase 2,3.2023498844583926
+Corp Kitchen,India,Gurgaon,DLF Phase 2,3.208191754597303
+Good Food,India,Gurgaon,DLF Phase 2,3.3265751641595225
+Mahek By Greenz,India,Gurgaon,DLF Phase 2,3.2023315455485544
+Pao King,India,Gurgaon,DLF Phase 2,3.4248234093989813
+Prabhat Fast Food Corner,India,Gurgaon,DLF Phase 2,3.1119609381925626
+Shama Chicken Corner,India,Gurgaon,DLF Phase 2,3.2560753990628655
+Unique Food Hut,India,Gurgaon,DLF Phase 2,3.3305496347482664
+Illusion The Lounge Bar - Hotel Clark Inn Gurgaon,India,Gurgaon,"Hotel Clark Inn, Sector 15",2.9795844377441076
+Call For Cuisine - Hotel Grenville,India,Gurgaon,"Hotel Grenville, MG Road",3.010132741699098
+Coffee to Cocktail Bar - Hyatt Place,India,Gurgaon,Hyatt Place Gurgaon,3.5762518775806846
+Bal Ji Rasoi,India,Gurgaon,Old Railway Road,3.075606428300212
+Dakshin Bistro,India,Gurgaon,Old Railway Road,3.1885353529900096
+Metro Dhaba,India,Gurgaon,Old Railway Road,3.050708145520977
+Sukhman Food City,India,Gurgaon,Old Railway Road,3.0656215128170605
+The Burger Hub,India,Gurgaon,Old Railway Road,3.051063078012746
+Anisha Restaurant,India,Gurgaon,Palam Vihar,3.058659794935354
+Annapoorna Foods,India,Gurgaon,Palam Vihar,3.0827102256620043
+Bakelicious 18,India,Gurgaon,Palam Vihar,3.2052220078801072
+Bansiwala Bakery,India,Gurgaon,Palam Vihar,3.0267048606496996
+Bansiwala Rasoi,India,Gurgaon,Palam Vihar,3.108334516581114
+Bansiwala Sweets,India,Gurgaon,Palam Vihar,2.967892583913744
+Best Pizza Hut,India,Gurgaon,Palam Vihar,3.05544069998988
+Bikaner Sweets & Restaurant,India,Gurgaon,Palam Vihar,2.951133225023657
+Chaska Food Corner,India,Gurgaon,Palam Vihar,2.9947054562220856
+Chulha,India,Gurgaon,Palam Vihar,3.1688397414296494
+Dev Restaurant,India,Gurgaon,Palam Vihar,2.9760284420820544
+Dietpoint,India,Gurgaon,Palam Vihar,2.981162970545191
+Gautam Bakery,India,Gurgaon,Palam Vihar,3.0095114126818157
+Honey Hot & Spicy,India,Gurgaon,Palam Vihar,2.988594301177961
+Hot & Spicy,India,Gurgaon,Palam Vihar,2.981229182140801
+Hot Fork,India,Gurgaon,Palam Vihar,2.9701193574802893
+Icon Foods,India,Gurgaon,Palam Vihar,3.0050875889507984
+Indochi Cafe & Restaurant,India,Gurgaon,Palam Vihar,2.987934769023709
+Love to Wish,India,Gurgaon,Palam Vihar,3.145857364536416
+M Cr��me,India,Gurgaon,Palam Vihar,3.167536457216352
+Mamta Tiffin Service,India,Gurgaon,Palam Vihar,3.008741198539692
+Panther Restaurant,India,Gurgaon,Palam Vihar,2.9763212948751225
+Pizza King,India,Gurgaon,Palam Vihar,2.988742433497963
+Radha Swami Shudh Vaishno Dhaba,India,Gurgaon,Palam Vihar,3.028776471150034
+RD's Authentic Aroma,India,Gurgaon,Palam Vihar,2.9777964833435955
+Savour,India,Gurgaon,Palam Vihar,3.087197764562541
+Sheetla Dhaba,India,Gurgaon,Palam Vihar,3.0242888463732287
+Shree Bikaner Mishthan Bhandar,India,Gurgaon,Palam Vihar,3.0402465399012595
+Shree Shyam Bhojnalaya,India,Gurgaon,Palam Vihar,3.0280987886513167
+Shristi Happy Eats,India,Gurgaon,Palam Vihar,3.085304761242128
+Singh Terrace Grill,India,Gurgaon,Palam Vihar,3.0306218686443644
+Swami Vaishno Dhaba,India,Gurgaon,Palam Vihar,3.0286124373846213
+Wah Ji Wah,India,Gurgaon,Palam Vihar,2.7461632713461217
+Indian Food Cafe,India,Gurgaon,Sector 12,3.0302469837432002
+Grill & Cafe,India,Gurgaon,Sector 14,2.9795415607702647
+Gurgaon Mughlai Chicken,India,Gurgaon,Sector 14,3.0247127528939
+Mughal Chicken Corner,India,Gurgaon,Sector 14,3.0316253460791414
+Oven Aroma,India,Gurgaon,Sector 14,3.156810045311783
+Radha Swami Shudh Vaishno Dhaba,India,Gurgaon,Sector 14,2.998725491444177
+Special No.1 Biryani Corner,India,Gurgaon,Sector 14,3.0937547843638757
+Sun Sweets Restaurant,India,Gurgaon,Sector 14,2.9064716910937385
+ANTIDOTE,India,Gurgaon,Sector 17,3.3157810257963836
+Bablu Fast Food,India,Gurgaon,Sector 17,3.0190518095216152
+Bikaner Sweets Snacks & Restaurant,India,Gurgaon,Sector 17,3.062521599276205
+Bikaner Sweets,India,Gurgaon,Sector 17,3.116729780218056
+Biryani & Rolls,India,Gurgaon,Sector 17,3.1079074248653633
+Cafe Coffee Day,India,Gurgaon,Sector 17,2.975362403834221
+Chefy's Kitchen,India,Gurgaon,Sector 17,3.0328338667215395
+Delight Express,India,Gurgaon,Sector 17,3.0726031554972213
+Dilli Rasoi,India,Gurgaon,Sector 17,3.063896587188511
+Dujal Cafe,India,Gurgaon,Sector 17,3.0473270762950766
+Full Dabba,India,Gurgaon,Sector 17,3.127928623777543
+HSI Food World,India,Gurgaon,Sector 17,3.0093842699954463
+Krishna Restaurant,India,Gurgaon,Sector 17,3.007135075585154
+Lajawaab House Cafe,India,Gurgaon,Sector 17,3.0500018457312903
+Luncheon Box,India,Gurgaon,Sector 17,3.0471689644421627
+Modern Sweets,India,Gurgaon,Sector 17,3.1512948074071017
+Radha Swami Shudh Vaishno Dhaba,India,Gurgaon,Sector 17,3.074417156963312
+Raju Vaishno Amritsari Dhaba,India,Gurgaon,Sector 17,3.0996316961399275
+Rustic Flavours,India,Gurgaon,Sector 17,3.0750334461973434
+VK Food Court,India,Gurgaon,Sector 17,3.039775432587498
+Fruitpro,India,Gurgaon,Sector 21,3.322440616702086
+Konetto Pizza,India,Gurgaon,Sector 21,3.0550670386144474
+Tpot,India,Gurgaon,Sector 21,3.444295500340977
+Burger Xpress,India,Gurgaon,Sector 22,3.053511887458075
+Divine Bites,India,Gurgaon,Sector 22,3.200332485758745
+Interaxis,India,Gurgaon,Sector 22,3.0465901429560014
+Kwality wall's swirl's,India,Gurgaon,Sector 22,3.2212727347128
+Milan Apna Dhaba,India,Gurgaon,Sector 22,3.069284617643714
+R S Foods,India,Gurgaon,Sector 22,3.122857293657897
+Ronny Flavours,India,Gurgaon,Sector 22,3.1284454528748316
+Shahi  Chicken Corner,India,Gurgaon,Sector 22,3.145837140625515
+Firangi Bake,India,Gurgaon,Sector 23,3.311305892374185
+Indochi,India,Gurgaon,Sector 23,3.017769618817837
+Kettle & Kegs,India,Gurgaon,Sector 23,3.34066112667193
+The Food Garage,India,Gurgaon,Sector 23,2.9732290740853276
+Bite N Sip,India,Gurgaon,Sector 31,3.06524128098572
+Burger Joint,India,Gurgaon,Sector 31,3.194147424636049
+Dilli Light,India,Gurgaon,Sector 31,3.000389840484184
+Love Desserts,India,Gurgaon,Sector 31,3.219601660658383
+Afghan Indian,India,Gurgaon,Sector 39,3.353764626504391
+Al Fanoos,India,Gurgaon,Sector 39,3.375393312688181
+Alwar Sweets & Namkeen,India,Gurgaon,Sector 39,3.1231357068561527
+Baskin Robbins,India,Gurgaon,Sector 39,3.1792745829305997
+Bisht Food Court,India,Gurgaon,Sector 39,3.0214777314806955
+Burj Al Arab,India,Gurgaon,Sector 39,3.371806381290722
+Chinese Chilli Sizllers,India,Gurgaon,Sector 39,3.0099169849431355
+Costa Coffee,India,Gurgaon,Sector 39,3.1747457266475756
+Costa Coffee,India,Gurgaon,Sector 39,3.180538628745599
+Desi Bites,India,Gurgaon,Sector 39,3.079424919474016
+Fresh Food,India,Gurgaon,Sector 39,3.093573244519319
+Kwality Restaurant,India,Gurgaon,Sector 39,2.9987336091512327
+Kwality Wall's Swirl's,India,Gurgaon,Sector 39,3.2442047382600245
+Nehra's Food Point,India,Gurgaon,Sector 39,3.004599530584138
+Orange Food Cart,India,Gurgaon,Sector 39,3.0084749592565982
+Royal Sweets,India,Gurgaon,Sector 39,2.951092952485787
+Shree Annapurna,India,Gurgaon,Sector 39,3.0271829816551508
+Underground Restaurant,India,Gurgaon,Sector 39,3.000486822409769
+Apna Dabba,India,Gurgaon,Sector 45,3.0748653520615052
+BiBo's Kitchen,India,Gurgaon,Sector 45,3.180177735384606
+Burger Point,India,Gurgaon,Sector 45,3.1531285740484423
+Cherry Crossing Foods,India,Gurgaon,Sector 45,3.0848002813784463
+Chinese Fast Food,India,Gurgaon,Sector 45,3.02381765295992
+Chinese Food,India,Gurgaon,Sector 45,2.963908701651997
+Chop Shop,India,Gurgaon,Sector 45,3.07824159431188
+Dhara,India,Gurgaon,Sector 45,3.0811556296025326
+Foody Goody,India,Gurgaon,Sector 45,3.092723179189012
+Kehar Sweets And Snacks,India,Gurgaon,Sector 45,3.095863632432221
+Muskan Chicken Biryani,India,Gurgaon,Sector 45,3.1916550326808535
+Shakes Cakes 'n' More,India,Gurgaon,Sector 45,3.238244624877403
+Shri Sai Kirpa Food,India,Gurgaon,Sector 45,3.079380033760147
+Sufiya Hotel,India,Gurgaon,Sector 45,3.1130969113363904
+The Breakfast Bite,India,Gurgaon,Sector 45,3.079055999625239
+Veg Hut,India,Gurgaon,Sector 45,3.0825302008882103
+The Pack King,India,Gurgaon,Sector 50,3.0878291554740196
+Bikaner Misthan Bhandar,India,Gurgaon,Sector 53,3.1449715141036876
+Apni Rasoi,India,Gurgaon,Sector 56,2.9032640046577494
+Bala Ji Sweets Corner,India,Gurgaon,Sector 56,2.9879427624529695
+Barista,India,Gurgaon,Sector 56,3.1195184232414115
+Biryani Express,India,Gurgaon,Sector 56,3.089319539913483
+Cafe #22hours,India,Gurgaon,Sector 56,3.001032209678396
+Cake Innovation,India,Gurgaon,Sector 56,3.2008419271413384
+Chawla's�_,India,Gurgaon,Sector 56,2.902161866590495
+China Gathering,India,Gurgaon,Sector 56,3.0103675414603006
+Chinese Hot Express,India,Gurgaon,Sector 56,2.968194314623925
+Cookingo,India,Gurgaon,Sector 56,2.9952235849984863
+Firefly,India,Gurgaon,Sector 56,3.0352502396004626
+Foodie Xpress,India,Gurgaon,Sector 56,3.0240356993605637
+Go! Dimsum,India,Gurgaon,Sector 56,2.9746827908185676
+Kanha North & South Indian Veg.,India,Gurgaon,Sector 56,3.0208919403755337
+Kings Kulfi,India,Gurgaon,Sector 56,3.1300124282263533
+Lassi Cafe,India,Gurgaon,Sector 56,3.033563349225187
+Marwadi Khana,India,Gurgaon,Sector 56,3.100235013584151
+Nukkadwala,India,Gurgaon,Sector 56,3.029225265112328
+Ravi Fast Food,India,Gurgaon,Sector 56,3.0419844773882065
+Shivalik Tiffin Corner,India,Gurgaon,Sector 56,3.012812569027039
+Street Food By Punjab Grills,India,Gurgaon,Sector 56,3.021765364402979
+Sweet Ginger Bakery,India,Gurgaon,Sector 56,3.12754495083993
+The Rolling Stove,India,Gurgaon,Sector 56,2.9592532738466044
+Vijeta's Happy Kitchen,India,Gurgaon,Sector 56,3.0240356993605637
+Bake Cuddle,India,Gurgaon,Sector 8,3.2773483555544445
+Delicious Food Corner,India,Gurgaon,Sikandarpur,3.1899511595895134
+Firangi Bake,India,Gurgaon,Sikandarpur,3.2833312226877407
+Kettle & Kegs,India,Gurgaon,Sikandarpur,3.541815898063228
+The Daily,India,Gurgaon,Sikandarpur,3.252298459113765
+Boozer's,India,Gurgaon,South City 1,3.2634557513894746
+Cheffy's,India,Gurgaon,South City 1,3.276931936287358
+AK Your Food,India,Gurgaon,South City 2,3.0410673089327527
+Freshnfit.in,India,Gurgaon,South City 2,3.286057241218785
+Shri Ram Bhojnalaya,India,Gurgaon,South City 2,3.02869278964504
+Special O-cake-sions,India,Gurgaon,South City 2,3.255025652572283
+Tasteful Biryani,India,Gurgaon,South City 2,3.140902974391562
+Kujay's Spoon,India,Gurgaon,Sushant Lok,3.099959644086095
+Lily Food's,India,Gurgaon,Sushant Lok,3.100062328563146
+Mutton Mewar,India,Gurgaon,Sushant Lok,3.519204665195082
+Tasty But Healthy,India,Gurgaon,Sushant Lok,3.2608603179778486
+Teddy Choco Studio,India,Gurgaon,Sushant Lok,3.500637881250706
+Adventure Food,India,Gurgaon,Udyog Vihar,3.033258301447866
+Baba Da Dhaba,India,Gurgaon,Udyog Vihar,3.037164708148401
+Bandhani Fast Food,India,Gurgaon,Udyog Vihar,3.0405762182783724
+Bhai Ji Dhaba,India,Gurgaon,Udyog Vihar,3.037161740293604
+Bikaner Sweets,India,Gurgaon,Udyog Vihar,2.9194567260023057
+Cafe Coffee Day,India,Gurgaon,Udyog Vihar,2.892069135171739
+Cake 24x7,India,Gurgaon,Udyog Vihar,3.2617838490077684
+Chaayos,India,Gurgaon,Udyog Vihar,3.3944719215968204
+Chauhan Hotel,India,Gurgaon,Udyog Vihar,3.0047896134019823
+Costa Coffee,India,Gurgaon,Udyog Vihar,3.108122185226316
+Dheeraj Vaishno Dhaba,India,Gurgaon,Udyog Vihar,3.025268405934737
+Domino's Pizza,India,Gurgaon,Udyog Vihar,2.7371936229815477
+Food Ka Adda,India,Gurgaon,Udyog Vihar,2.9783134879050848
+iKitchen,India,Gurgaon,Udyog Vihar,3.2195153302595383
+Knights Kitchen,India,Gurgaon,Udyog Vihar,3.029656420017956
+Ku-Kukdu-Ku,India,Gurgaon,Udyog Vihar,3.0321671663901544
+Mogambo Kitchen,India,Gurgaon,Udyog Vihar,3.0062587987128477
+Noore-e-Seva,India,Gurgaon,Udyog Vihar,3.074670090557176
+Premier Bite,India,Gurgaon,Udyog Vihar,2.9728282206001544
+Renu Sweets & Restaurant,India,Gurgaon,Udyog Vihar,3.0403010546307008
+Street Foods by Punjab Grill,India,Gurgaon,Udyog Vihar,3.046966850966437
+Tpot,India,Gurgaon,Udyog Vihar,3.266013909115639
+Uttrakhand Bohra Bhojnalaya & Fast Food,India,Gurgaon,Udyog Vihar,3.0252890774641896
+Uttrakhand Dhaba,India,Gurgaon,Udyog Vihar,3.024571590413837
+Department of Food and Social Affair,India,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",3.240033699761647
+Tpot,India,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",3.603807901031158
+Creamy Innovation,India,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",3.222854709634218
+Dosa Republic,India,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",3.1440729700648093
+Giani's,India,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",3.2593122023288092
+Aggarwal Sweets & Restaurant,India,Gurgaon,"Vyapar Kendra, Palam Vihar",2.935845414248668
+Chaudhary Burfi Wala,India,Gurgaon,"Vyapar Kendra, Sushant Lok",3.14175689974165
+Food Cloud,India,New Delhi,Aaya Nagar,3.4860261027424047
+365 Naturals,India,New Delhi,Aerocity,3.1947202881425856
+Tpot,India,New Delhi,Aerocity,3.3352180097805175
+#InstaFreeze,India,New Delhi,Alaknanda,3.344078315434331
+Aahar Meat and Chicken Shop,India,New Delhi,Alaknanda,3.091775005214262
+Food Cafe,India,New Delhi,Alaknanda,2.959427513638432
+Lazeez Restaurant,India,New Delhi,Alaknanda,3.030071435201161
+Lemon Chick,India,New Delhi,Alaknanda,3.04822357442181
+Punjabi Chaap Corner,India,New Delhi,Alaknanda,3.062977854044844
+Purani Dilli Foods,India,New Delhi,Alaknanda,3.190824141860082
+Tandoori Kebab,India,New Delhi,Alaknanda,3.0161756927303927
+Amar Bakery,India,New Delhi,Anand Vihar,3.2744802381856575
+Cafe Brewbug,India,New Delhi,Anand Vihar,3.2884658833936946
+Chilll House Kafe,India,New Delhi,Anand Vihar,3.3493523791974296
+Cookie Shookie,India,New Delhi,Anand Vihar,3.209436641114956
+Fabulous Cake,India,New Delhi,Anand Vihar,3.2721560256651583
+Jai Maa Shaarde Samose Wala,India,New Delhi,Anand Vihar,3.2848598788387005
+Madaan Confectionery,India,New Delhi,Anand Vihar,3.23040257689585
+Magic Masala,India,New Delhi,Anand Vihar,3.062549749088241
+Sikka Chinese Fast Food,India,New Delhi,Anand Vihar,3.1019796043989896
+Teedo's Cake Inn,India,New Delhi,Anand Vihar,3.355794237556535
+Thalaiva Cafe,India,New Delhi,Anand Vihar,3.051394264736957
+The Cake Affairs,India,New Delhi,Anand Vihar,3.358423669479273
+Tulsi Ram Chinese Hut,India,New Delhi,Anand Vihar,3.0811804635886832
+V. K. Pasta,India,New Delhi,Anand Vihar,3.364792914022747
+Xpert Bakers,India,New Delhi,Anand Vihar,3.2583613713256065
+FFC Restaurant,India,New Delhi,Asaf Ali Road,3.181219601861641
+6 Pack Momos,India,New Delhi,Ashok Vihar Phase 1,2.990055828802002
+Al Noor Foods,India,New Delhi,Ashok Vihar Phase 1,3.1234170103971017
+Avon Kitchen,India,New Delhi,Ashok Vihar Phase 1,3.1302115092537313
+Bhasad Cafe,India,New Delhi,Ashok Vihar Phase 1,3.0349489260389966
+Bikaner Kesarvala,India,New Delhi,Ashok Vihar Phase 1,3.0178316593301586
+De Bone Chicken,India,New Delhi,Ashok Vihar Phase 1,3.07808595849903
+Indian Fresh Meat Shop,India,New Delhi,Ashok Vihar Phase 1,3.0598107831438743
+JD's Food Court,India,New Delhi,Ashok Vihar Phase 1,3.0477443055820297
+Keventers,India,New Delhi,Ashok Vihar Phase 1,3.2229895809352587
+Malhotra Bakery,India,New Delhi,Ashok Vihar Phase 1,3.091452156306892
+Matthi Wala,India,New Delhi,Ashok Vihar Phase 1,3.0979404737046754
+Nirula's Ice Cream,India,New Delhi,Ashok Vihar Phase 1,3.1858140058223507
+Punjabi Chaap Corner,India,New Delhi,Ashok Vihar Phase 1,3.0481664724866597
+Puran Dhaba,India,New Delhi,Ashok Vihar Phase 1,3.0666291802036945
+Rama Desi Ghee Meat Wala,India,New Delhi,Ashok Vihar Phase 1,3.122791271018099
+VadaPav 'n' Frankie,India,New Delhi,Ashok Vihar Phase 1,3.105426834707142
+Balaji Dhaba,India,New Delhi,Barakhamba Road,3.0834453554612624
+Bhagat Ji,India,New Delhi,Barakhamba Road,3.171478128116176
+Hangout Kathi Rolls,India,New Delhi,Barakhamba Road,3.2080943413223
+Makers & Bakers,India,New Delhi,Barakhamba Road,3.432836449499775
+Coffee Shop - Centaur Hotel,India,New Delhi,"Centaur Hotel, Aerocity",3.450962623744136
+Arunachal Bhawan,India,New Delhi,Chanakyapuri,3.244207474577305
+Hotel New Tamil Nadu,India,New Delhi,Chanakyapuri,3.031300444803119
+Milan Food,India,New Delhi,Chanakyapuri,3.0633108878482354
+Playboy Club,India,New Delhi,Chanakyapuri,3.4136171356409255
+Annapurna Chaat & Sweets,India,New Delhi,Chandni Chowk,3.4300143147367432
+Delhi-6 The Chicken Planet,India,New Delhi,Chandni Chowk,3.292897883923417
+Dessi Food,India,New Delhi,Chandni Chowk,3.428084172878985
+Foody Dragon,India,New Delhi,Chandni Chowk,3.1284777985769647
+Grover Eating Point,India,New Delhi,Chandni Chowk,3.1182810307136535
+Hotel 121 Shakahari,India,New Delhi,Chandni Chowk,3.1292269963467243
+Lala Chaap Corner,India,New Delhi,Chandni Chowk,3.282736296149987
+Meghraj & Sons,India,New Delhi,Chandni Chowk,3.405141662989865
+Old Kheer Shop,India,New Delhi,Chandni Chowk,3.3443070701867987
+Punjabi Chicken,India,New Delhi,Chandni Chowk,3.1051081947003407
+Ratan Singh,India,New Delhi,Chandni Chowk,3.3307467524028644
+Shri Bhujia Bhandar,India,New Delhi,Chandni Chowk,3.345463827403931
+Baba Chicken Ludhiana Wale,India,New Delhi,Chittaranjan Park,3.08291790383413
+Bengal Snacks,India,New Delhi,Chittaranjan Park,3.1585742797108063
+Brownies & More,India,New Delhi,Chittaranjan Park,3.1049689244222147
+Cafe Coffee Day,India,New Delhi,Chittaranjan Park,3.045207308890573
+Craving Cure,India,New Delhi,Chittaranjan Park,3.043253277415981
+Cuisine,India,New Delhi,Chittaranjan Park,3.147602123030417
+Food Nation,India,New Delhi,Chittaranjan Park,3.050228456981925
+Kamala Fast Food & Chinese,India,New Delhi,Chittaranjan Park,3.061672371644299
+Lokenath Sweets,India,New Delhi,Chittaranjan Park,3.0922668720359754
+Me and My Cake,India,New Delhi,Chittaranjan Park,3.2567366563157765
+Hind Bakery & Chinese Fast Food,India,New Delhi,Civil Lines,3.3261060151646267
+Hot Pot,India,New Delhi,Civil Lines,3.1388108312475778
+Punjabi Flavour,India,New Delhi,Civil Lines,3.1706386113773064
+Saras Fast Food Feast,India,New Delhi,Civil Lines,3.2138824102559207
+Shama Chicken Corner,India,New Delhi,Civil Lines,3.3176837288919723
+The Night Owl,India,New Delhi,Civil Lines,3.1654410559502146
+Wimpy Sweets And Confectioners,India,New Delhi,Civil Lines,3.2960098264170314
+Kebab Gallery,India,New Delhi,"Community Centre, New Friends Colony",3.1867533733692346
+Kettle & Kegs,India,New Delhi,Connaught Place,3.7015792460238535
+Ovenstory Pizza,India,New Delhi,Connaught Place,3.6771466341225847
+Shree Hari Vaishnav Dhaba,India,New Delhi,Connaught Place,3.312822924264395
+Anupam Jalpan,India,New Delhi,Daryaganj,3.119534663273296
+Aunty's Kitchen,India,New Delhi,Daryaganj,3.1025785142307747
+Cafe Coffee Day,India,New Delhi,Daryaganj,2.9822910477826543
+Delhi 6 Foods,India,New Delhi,Daryaganj,3.1130269757806093
+Fry Centre,India,New Delhi,Daryaganj,3.1196176633738246
+Hilal Hotel Nihari,India,New Delhi,Daryaganj,3.2450011191894506
+Iqbal's Mughal Cuisine,India,New Delhi,Daryaganj,3.190363332740499
+Kake Di Hatti Punjabi Khana,India,New Delhi,Daryaganj,3.1237882553445147
+Kaushal Dhaba,India,New Delhi,Daryaganj,3.1160477695819067
+Khan Foods,India,New Delhi,Daryaganj,3.249402213511715
+Kumar Sweet House,India,New Delhi,Daryaganj,3.254653697350781
+Negi Restaurant,India,New Delhi,Daryaganj,3.1151704423765354
+Old Delhi Food Factory,India,New Delhi,Daryaganj,3.2964075401179675
+Parantha Point,India,New Delhi,Daryaganj,3.102742436622127
+R.P.W Pizza,India,New Delhi,Daryaganj,3.2458811232363303
+Rajdhani Restaurant,India,New Delhi,Daryaganj,3.1145306810821536
+Roll's World,India,New Delhi,Daryaganj,3.2372509924397326
+Shree Krishna Dhaba,India,New Delhi,Daryaganj,3.064471855650634
+Taj Chicken Point,India,New Delhi,Daryaganj,3.1527888602378766
+RR China Tawun,India,New Delhi,"DDA Market, Kalu Sarai, Hauz Khas",3.023836811273876
+Chicken Biryani Centre,India,New Delhi,Defence Colony,3.3846338307704142
+Ekta Restaurant,India,New Delhi,Defence Colony,3.1476010222459356
+Garam Masala,India,New Delhi,Defence Colony,3.14815853602524
+Gulati Food Corner,India,New Delhi,Defence Colony,3.1545801019127975
+Kolkatta Kathi Roll,India,New Delhi,Defence Colony,3.2267132330085895
+Muradabadi Shahi Biryani & Chicken Corner,India,New Delhi,Defence Colony,3.3099222009916
+Rara Dragon,India,New Delhi,Defence Colony,3.2313940073225957
+Milko's,India,New Delhi,Delhi Cantt.,3.3137865545027503
+Mom's Bake,India,New Delhi,Delhi Cantt.,3.215994813162074
+RV Restaurant,India,New Delhi,Delhi Cantt.,3.098928542397108
+Turning Point Fast Food,India,New Delhi,Delhi Cantt.,3.2796933155177523
+Best Biryani,India,New Delhi,Delhi University-GTB Nagar,3.226624626755555
+Derawal Soda Fountain,India,New Delhi,Delhi University-GTB Nagar,3.4583252141110314
+Eat & Gulp,India,New Delhi,Delhi University-GTB Nagar,3.35295841370921
+L.N Live Kitchen,India,New Delhi,Delhi University-GTB Nagar,3.1102682557405696
+Papa Buns,India,New Delhi,Delhi University-GTB Nagar,3.4015545771318867
+Preet Fast Foods,India,New Delhi,Delhi University-GTB Nagar,3.2990649735728135
+Sikkim Chinese Food,India,New Delhi,Delhi University-GTB Nagar,3.0621026470465003
+Tawa King,India,New Delhi,Delhi University-GTB Nagar,3.0823222450525387
+The Pork Shop,India,New Delhi,Delhi University-GTB Nagar,3.1558850050999716
+TiffinToons,India,New Delhi,Delhi University-GTB Nagar,3.0979044567812553
+Vaishno Rasoi,India,New Delhi,Delhi University-GTB Nagar,3.088022252614721
+Aggarwal Sweet Corner,India,New Delhi,Dilshad Garden,2.9916840433527505
+Amritsari Naan Hut,India,New Delhi,Dilshad Garden,3.0116221944322694
+Annapurna Bhojnalaya,India,New Delhi,Dilshad Garden,3.012475955417816
+Asia,India,New Delhi,Dilshad Garden,3.018045102326884
+Bablu Chinese Food,India,New Delhi,Dilshad Garden,3.0805513159480453
+Bikaner Rasoi,India,New Delhi,Dilshad Garden,3.0054843676809475
+Crazzy Bite,India,New Delhi,Dilshad Garden,2.984916056738256
+Da Pizza Farm,India,New Delhi,Dilshad Garden,3.215087253305998
+Dada Ka,India,New Delhi,Dilshad Garden,3.046252499250964
+Friends N Foods,India,New Delhi,Dilshad Garden,3.009294775018991
+Hot N Fresh Pizza,India,New Delhi,Dilshad Garden,3.0729789482953214
+Kake Di Chap,India,New Delhi,Dilshad Garden,3.072173573419658
+Kathi Junction,India,New Delhi,Dilshad Garden,3.1016907703489127
+KSG,India,New Delhi,Dilshad Garden,3.119708847698656
+Mahavrer Chap Express,India,New Delhi,Dilshad Garden,3.020662843067552
+Mamma Drools,India,New Delhi,Dilshad Garden,3.0083899583486926
+Pawan Foods,India,New Delhi,Dilshad Garden,2.97837562182505
+Pizza Hub,India,New Delhi,Dilshad Garden,3.0751281205083396
+Prem Rasoi,India,New Delhi,Dilshad Garden,3.0027604717612215
+Sanjha Chulah Babe Da,India,New Delhi,Dilshad Garden,3.037724404925032
+Shakun Cook-Du-Ku,India,New Delhi,Dilshad Garden,2.9987345709399724
+The Taste of Punjab,India,New Delhi,Dilshad Garden,2.9714833647758696
+Vaishno Bhojanalaya,India,New Delhi,Dilshad Garden,2.9950247307175655
+Wrap N Roll,India,New Delhi,Dilshad Garden,3.013745107185075
+Zaika-E-Chaap Express,India,New Delhi,Dilshad Garden,3.0517386183460475
+Tibb's Frankie,India,New Delhi,"DLF City Centre Mall, Shalimar Bagh",3.154711479074143
+Meatwale.com,India,New Delhi,"DLF South Square, Sarojini Nagar",3.132403874622704
+17 Degree Food Service,India,New Delhi,East of Kailash,3.0549320764795906
+Aggarwal Eating Point,India,New Delhi,East of Kailash,3.048697758435512
+Al- Laziz,India,New Delhi,East of Kailash,3.151821255255311
+Al- Sheikh,India,New Delhi,East of Kailash,3.091621524615113
+Anupama Sweets & Restaurant,India,New Delhi,East of Kailash,2.970405240642721
+Aurangzeb,India,New Delhi,East of Kailash,3.0871377872436425
+Da Pizza Corner,India,New Delhi,East of Kailash,3.0073104216273174
+Delhi Food Adda,India,New Delhi,East of Kailash,3.029548802322007
+Delhi Lazeez,India,New Delhi,East of Kailash,3.0635586037647493
+Delhi Pizza Corner,India,New Delhi,East of Kailash,3.021576614246578
+Dessert Carte,India,New Delhi,East of Kailash,3.215505416146829
+Firangi Mithai,India,New Delhi,East of Kailash,3.1449181134985444
+Ghar Ka Khana,India,New Delhi,East of Kailash,3.027656101285607
+Heera Chicken Corner,India,New Delhi,East of Kailash,3.119354474535635
+Jagram Dhaba,India,New Delhi,East of Kailash,3.0388581933004137
+Janaab,India,New Delhi,East of Kailash,3.191665140907311
+K.K. Fast Food Service,India,New Delhi,East of Kailash,3.0195524344441456
+Kasur Khyon,India,New Delhi,East of Kailash,3.0737802710675144
+Kitchen King,India,New Delhi,East of Kailash,3.0149581817492312
+Laziz Chinese Fast Food,India,New Delhi,East of Kailash,2.9972091210255094
+Munch Brunch Cafe,India,New Delhi,East of Kailash,3.0431920018228578
+Piyu Fast Food,India,New Delhi,East of Kailash,2.9992663359561407
+Punjabi Tandoor,India,New Delhi,East of Kailash,3.0337535913320304
+Roll Corner,India,New Delhi,East of Kailash,3.1003918159123667
+Sher-e-Punjab,India,New Delhi,East of Kailash,3.0300210659750793
+Test Restaruants for Medio,India,New Delhi,East of Kailash,3.2672349885235454
+Uncle Sam,India,New Delhi,East of Kailash,3.0479227347931612
+Vijay Store,India,New Delhi,East of Kailash,3.0899061510007586
+Viya Cupcakery,India,New Delhi,East of Kailash,3.2071997388782894
+Zaika Muradabadi,India,New Delhi,East of Kailash,3.271342485269157
+Hardwari,India,New Delhi,East Patel Nagar,3.2084858933741627
+Johny's Vada Pav,India,New Delhi,East Patel Nagar,3.317616392205184
+My Kind Of Cafe,India,New Delhi,East Patel Nagar,3.4936796962712076
+Panchratna Thali,India,New Delhi,East Patel Nagar,3.417781984869185
+Punjabi Rasoi,India,New Delhi,East Patel Nagar,3.0499965381137315
+Shisha,India,New Delhi,East Patel Nagar,3.320955512981609
+Snacks and More,India,New Delhi,East Patel Nagar,3.2215449934003915
+Swag Cafe,India,New Delhi,East Patel Nagar,3.083851967343644
+The Pink Whisk,India,New Delhi,East Patel Nagar,3.240988760164093
+Nando's,India,New Delhi,"Epicuria Food Mall, Nehru Place",3.7832812437781054
+Gupta's Food Point,India,New Delhi,Feroze Shah Road,3.3644540615003056
+Dilli Grillz,India,New Delhi,"Fun City Mall, Prashant Vihar",2.9694333193654927
+Foodies,India,New Delhi,"Fun City Mall, Prashant Vihar",3.336714278575874
+Giani's,India,New Delhi,"Fun City Mall, Prashant Vihar",3.365297952076341
+Baweja's Haandi,India,New Delhi,Geeta Colony,3.0864089152169045
+Chaman Dhaba,India,New Delhi,Geeta Colony,3.058779503497184
+Insane Foods,India,New Delhi,Geeta Colony,3.07107384129829
+Jo Jo Chinese Fast Food,India,New Delhi,Geeta Colony,3.013528916349026
+Kailash Vaishno Dhaba,India,New Delhi,Geeta Colony,3.0592784116953387
+Khurana Eating Point,India,New Delhi,Geeta Colony,3.0137016271912946
+Lots of Food,India,New Delhi,Geeta Colony,3.024285275512357
+Madras Cafe,India,New Delhi,Geeta Colony,2.9575402807959774
+Parantha on Call,India,New Delhi,Geeta Colony,3.0342073370162277
+Pompas Chicken,India,New Delhi,Geeta Colony,3.0718283122883756
+Prem Ji Delhi Wale,India,New Delhi,Geeta Colony,3.0629287289155487
+Punjabi Tandoori Tikka,India,New Delhi,Geeta Colony,3.2190319658566073
+Punjabi's Veg Grill,India,New Delhi,Geeta Colony,2.9975889565948277
+Shree Banke Foods,India,New Delhi,Geeta Colony,3.019038635479389
+Singh's,India,New Delhi,Geeta Colony,3.069374238947594
+Soya Twist,India,New Delhi,Geeta Colony,3.0247140801036787
+Spice Studio,India,New Delhi,Geeta Colony,3.1487285210796765
+Tandoori Tadka,India,New Delhi,Geeta Colony,3.1949238957964052
+Tasty Tandoor,India,New Delhi,Geeta Colony,3.0598913190894743
+The Square Meal,India,New Delhi,"Ginger Hotel, Vivek Vihar",3.301698139827466
+Aazad Chicken Corner,India,New Delhi,Green Park,3.2226771061450115
+Chaipiyoji,India,New Delhi,Green Park,3.0944973785735477
+Chatkara,India,New Delhi,Green Park,3.3442991444412082
+HoG - House of Goodies,India,New Delhi,Green Park,3.3814094839007445
+Kettle & Kegs,India,New Delhi,Green Park,3.352229227912196
+Krishna Juice & Shakes Corner,India,New Delhi,Green Park,3.2209874819724105
+Momolicious,India,New Delhi,Green Park,3.201008475764552
+Pastry Palace,India,New Delhi,Green Park,3.2823684042701995
+South Gate,India,New Delhi,Green Park,3.1618532638172034
+Sweet Bakes,India,New Delhi,Green Park,3.3664733101136206
+Sweet Sensations,India,New Delhi,Green Park,3.273035925197553
+The Pirates Of China Town,India,New Delhi,Green Park,3.04371422171629
+Apna Punjabi Zayka,India,New Delhi,GTB Nagar,3.1123127767565295
+Best Biryani Centre,India,New Delhi,GTB Nagar,3.330176704547576
+Delhi Chaat Bhandar,India,New Delhi,GTB Nagar,3.1328765302946007
+Encounter,India,New Delhi,GTB Nagar,3.3043767233062242
+Flavour's,India,New Delhi,GTB Nagar,3.2318200171919638
+Food Adda,India,New Delhi,GTB Nagar,3.2284036945916696
+Friends Fast Food,India,New Delhi,GTB Nagar,3.1378444129061798
+Hot & Pot,India,New Delhi,GTB Nagar,3.139570787158724
+Lucky Corner Shop,India,New Delhi,GTB Nagar,3.2324168089253043
+Mahesh Shudh Vaishno Bhojanalya,India,New Delhi,GTB Nagar,3.08582523870261
+Piper's & Grill - The Night Chef,India,New Delhi,GTB Nagar,3.213028445883663
+RAM-G Samose Wale,India,New Delhi,GTB Nagar,3.3759855491379662
+Shubham Vaishno Bhojanalya,India,New Delhi,GTB Nagar,3.087085099704229
+Shudh Vaishno Bhojanalaya,India,New Delhi,GTB Nagar,3.1060796086836047
+Shudh Vaishno Dhaba,India,New Delhi,GTB Nagar,3.106933022605056
+Singh Chicken,India,New Delhi,GTB Nagar,3.1942998979611046
+Spezia Deliveries,India,New Delhi,GTB Nagar,3.307071243793195
+TAG,India,New Delhi,GTB Nagar,3.3869728520203797
+UFO,India,New Delhi,GTB Nagar,3.578904759906321
+Urban Patty House,India,New Delhi,GTB Nagar,3.2332395188641074
+Aap Ki Khatir,India,New Delhi,Gujranwala Town,3.0922062456430437
+Aggarwal Sweets,India,New Delhi,Gujranwala Town,3.1530912234781723
+Amul Ice-Cream Parlour,India,New Delhi,Gujranwala Town,3.36629914849546
+Chaat King,India,New Delhi,Gujranwala Town,3.2789141825761017
+Cherry Berry,India,New Delhi,Gujranwala Town,3.316173171388652
+Flavours Kitchen,India,New Delhi,Gujranwala Town,3.0613785570014675
+Hook Up,India,New Delhi,Gujranwala Town,3.2469061138733566
+Jnm Mama Mafia,India,New Delhi,Gujranwala Town,3.2057177493087687
+Kitchen199,India,New Delhi,Gujranwala Town,3.0720370309323446
+Noddy's,India,New Delhi,Gujranwala Town,3.4019965894959316
+Om Ji Bhature Wale,India,New Delhi,Gujranwala Town,3.30830203106587
+Peshawari Mehel,India,New Delhi,Gujranwala Town,3.0922574733325527
+Republic of Chicken,India,New Delhi,Gujranwala Town,3.043427957392375
+Shri Radhe,India,New Delhi,Gujranwala Town,3.1082571275257513
+Spices Affair,India,New Delhi,Gujranwala Town,3.182645515556289
+34 Park Street Lane,India,New Delhi,Hauz Khas,3.1897624005275738
+Adda The Spice Affair,India,New Delhi,Hauz Khas,3.063156888158114
+All About Food,India,New Delhi,Hauz Khas,3.060581139711452
+Bombay Pao Bhaji,India,New Delhi,Hauz Khas,3.326507356292904
+Brown House Cafe,India,New Delhi,Hauz Khas,3.079760145269851
+Chinese Hutt,India,New Delhi,Hauz Khas,3.0655056722932015
+Desi Tadka,India,New Delhi,Hauz Khas,3.0704013853809826
+Food Daddy,India,New Delhi,Hauz Khas,3.102112353925091
+Front Food Corner,India,New Delhi,Hauz Khas,3.0823958725551903
+Gupta's Vegetarian Paradise,India,New Delhi,Hauz Khas,3.11222245479024
+Hot Kathi Roll,India,New Delhi,Hauz Khas,3.2022825462326807
+House Of Chocolate,India,New Delhi,Hauz Khas,3.339896379714525
+Jaisons,India,New Delhi,Hauz Khas,3.2531951046894214
+Sher -E- Punjab,India,New Delhi,Hauz Khas,3.0621133376850604
+Shi Cafe,India,New Delhi,Hauz Khas,3.824067515581561
+Sri Balaji,India,New Delhi,Hauz Khas,3.0538985875331015
+Zaika Kathi Roll,India,New Delhi,Hauz Khas,3.206511279347062
+Curry Capital - Hotel Classic Diplomat,India,New Delhi,"Hotel Classic Diplomat, Mahipalpur",3.19320112280702
+Viceroy Bar - Hotel Classic Diplomat,India,New Delhi,"Hotel Classic Diplomat, Mahipalpur",3.1428919801233945
+The Grand Kitchen,India,New Delhi,"Hotel Regent Grand, Karol Bagh",2.997789564239453
+Frugurpop-  ibis New Delhi,India,New Delhi,"ibis New Delhi, Aerocity",3.42312265444491
+New Classic Kitchen,India,New Delhi,INA,3.096224257287713
+Kashmiri Hills Wazwan,India,New Delhi,India Gate,3.4012833356402314
+Mirch Masala Restaurant,India,New Delhi,India Gate,3.169329520053963
+Shree Rathnam,India,New Delhi,India Gate,3.2274871038088806
+Chakhna,India,New Delhi,IP Extension,2.9958146890856425
+Choco-House Chocolatiers,India,New Delhi,IP Extension,3.230127263856377
+D Brown Affairs,India,New Delhi,IP Extension,3.249418104191439
+Daya Sagar,India,New Delhi,IP Extension,3.0192102076635883
+Food Code 99,India,New Delhi,IP Extension,3.0053763675266985
+Foodie Singh,India,New Delhi,IP Extension,3.049742251709378
+Gluten Free by Deepika,India,New Delhi,IP Extension,3.145434600848337
+Jain Restaurant,India,New Delhi,IP Extension,3.105597304994107
+Kesariya Sweets,India,New Delhi,IP Extension,3.0656386895035554
+KG Confectionery and Pastry Shop,India,New Delhi,IP Extension,3.1359468964109687
+Krishna Da Dhaba,India,New Delhi,IP Extension,3.038776374636906
+Little Cup Cake,India,New Delhi,IP Extension,3.260673353262134
+New Kovilakam Restaurant,India,New Delhi,IP Extension,3.1762734858461696
+Nice Food Corner,India,New Delhi,IP Extension,3.1727912061080996
+Radhey Radhey Foods,India,New Delhi,IP Extension,3.0521223591686875
+Schezwan Bakery,India,New Delhi,IP Extension,3.079676512590005
+Shama Muradabadi Chicken Corner,India,New Delhi,IP Extension,3.1178820018423243
+Starve Stalkers,India,New Delhi,IP Extension,3.200920802654883
+Tava & Tandoor,India,New Delhi,IP Extension,3.0073913165687935
+Bikaner Sweets,India,New Delhi,Jail Road,2.989346484464097
+Bittoo Murge Wala,India,New Delhi,Jail Road,3.1111882664618724
+Jalebi Wala,India,New Delhi,Jail Road,3.182721305392138
+Just Parkash,India,New Delhi,Jail Road,3.022938330626264
+Kwality Sweet Corner,India,New Delhi,Jail Road,2.990961161883601
+Mohan Chaat Corner,India,New Delhi,Jail Road,3.0809497698501294
+Mr. Momo,India,New Delhi,Jail Road,3.0437807428685817
+Pishori Chicken Corner,India,New Delhi,Jail Road,3.119820693750118
+Punjab Patiyala Sahi,India,New Delhi,Jail Road,3.1307376390337236
+Shama Chicken Corner,India,New Delhi,Jail Road,3.0407451750833046
+Wah G Wah,India,New Delhi,Jail Road,2.9572276615988056
+Al-Nawab,India,New Delhi,Jama Masjid,3.4045864836248465
+Ameer Sweets House,India,New Delhi,Jama Masjid,3.504002274103228
+Anwar Food Corner,India,New Delhi,Jama Masjid,3.49706833925429
+Fish Point,India,New Delhi,Jama Masjid,3.2086347985059804
+Golden Bakery,India,New Delhi,Jama Masjid,3.412840344534822
+Hotel Maidah,India,New Delhi,Jama Masjid,3.3090118411595277
+Lahori Food,India,New Delhi,Jama Masjid,3.213037299969333
+Majlis Foods,India,New Delhi,Jama Masjid,3.212971753015787
+Bhashi Caterers,India,New Delhi,Jangpura,3.1371152926194013
+Birbal Ji Dhaba,India,New Delhi,Jangpura,3.0660388482429575
+Chaap Express,India,New Delhi,Jangpura,3.074292655700883
+Daawat-e-Mehak,India,New Delhi,Jangpura,3.0375292389545745
+Delhi Biryani Hut,India,New Delhi,Jangpura,3.1361555469234674
+K. B. Eating Point,India,New Delhi,Jangpura,3.106256098783887
+Kashmiri Wazwan,India,New Delhi,Jangpura,3.137223280559749
+Maan Singh Halwai,India,New Delhi,Jangpura,3.067258541967492
+Mughlai Darbar Muradabadi,India,New Delhi,Jangpura,3.156793097070232
+P.S. Chinese & Thai Food,India,New Delhi,Jangpura,3.028896399888308
+Pak Afghan Restaurant,India,New Delhi,Jangpura,3.209786129859622
+Pakeeza Restaurants,India,New Delhi,Jangpura,3.1954501513074023
+Radhe Shyam Chole Bhature,India,New Delhi,Jangpura,3.2032889992511686
+Sanjha Chulha,India,New Delhi,Jangpura,2.9996568187820847
+Sardar A Pure Meat Shop,India,New Delhi,Jangpura,2.980520653290103
+Shahi Muradabadi & Hyderabadi,India,New Delhi,Jangpura,3.147321308846927
+Shankar Chinese Foods,India,New Delhi,Jangpura,3.0665553014591076
+Shri Ram Sweets,India,New Delhi,Jangpura,3.06382819381647
+Subhash Punjabi Family Dhaba,India,New Delhi,Jangpura,3.077960147518542
+Tandoori Nature,India,New Delhi,Jangpura,3.0664370963770047
+Tinker Koch,India,New Delhi,Jangpura,3.0741951298875456
+Wakhra Swag,India,New Delhi,Jangpura,3.0302443631498384
+Chill House Kafe,India,New Delhi,Janpath,3.518559945644151
+Connoisseur,India,New Delhi,Janpath,3.4533877760028115
+Mahesh Chaat Corner,India,New Delhi,Janpath,3.275091735264127
+Pind Balluchi,India,New Delhi,Janpath,3.3161818594225476
+Queen's Way,India,New Delhi,Janpath,3.349599102026768
+Sea Lord,India,New Delhi,Janpath,3.2838256768056473
+Chai Mantra,India,New Delhi,Jasola,3.2495108493786966
+Amul Ice-Cream Parlour,India,New Delhi,JNU,3.336967692910738
+Sunny Restaurant & Tiffin,India,New Delhi,JNU,3.0916546120350787
+Al-Malik Chicken Point,India,New Delhi,Kailash Colony,3.23893101797636
+Amul Sweets & Bakery,India,New Delhi,Kailash Colony,3.0549339542351577
+Elements - Mapple Express,India,New Delhi,Kailash Colony,3.4464189875275464
+Food 24,India,New Delhi,Kailash Colony,3.2485028043621735
+Food Corner,India,New Delhi,Kailash Colony,3.1463593295702292
+Food Master's Galley,India,New Delhi,Kailash Colony,3.1034373459882163
+Habibi Express,India,New Delhi,Kailash Colony,3.554489941868707
+Hide Out Cafe,India,New Delhi,Kailash Colony,3.534105670861958
+Moriarty Delivers,India,New Delhi,Kailash Colony,3.3345866238101944
+Bake Bite,India,New Delhi,Kalkaji,3.1805976446392763
+Chinese Chaat Corner,India,New Delhi,Kalkaji,3.0537360622684186
+Chocofairies,India,New Delhi,Kalkaji,3.1725227986028726
+Javed Chicken Corner,India,New Delhi,Kamla Nagar,3.3449872982055915
+Kamal Chicken,India,New Delhi,Kamla Nagar,3.2886748551732152
+Singh Chinese Fast Food,India,New Delhi,Kamla Nagar,3.191394413202463
+Al Naseem Foods Shawarma,India,New Delhi,Karol Bagh,3.2383266613797845
+Ganpati Bhoj,India,New Delhi,Karol Bagh,3.0986575585989087
+Pandit Dhaba,India,New Delhi,Karol Bagh,3.120451500013325
+Red Chili Potato,India,New Delhi,Karol Bagh,3.101975543801932
+Cafe Coffee Day,India,New Delhi,Khan Market,3.3731430395524074
+Aalishaan,India,New Delhi,Krishna Nagar,3.055835112747322
+Amritsari Chaat Bhandar,India,New Delhi,Krishna Nagar,3.223684777072755
+Bansal Foods,India,New Delhi,Krishna Nagar,3.1010416426543177
+Bhatia Chinese Food,India,New Delhi,Krishna Nagar,3.0359468326071446
+Break Fast Junction,India,New Delhi,Krishna Nagar,3.05583207370612
+Breakfast Hut,India,New Delhi,Krishna Nagar,3.055814897631432
+Buddy 's. Pizza,India,New Delhi,Krishna Nagar,3.154944697078303
+Chai Garam,India,New Delhi,Krishna Nagar,3.2183963280184034
+Deepu Fish & Chicken,India,New Delhi,Krishna Nagar,3.08219406096567
+deliKitchen,India,New Delhi,Krishna Nagar,3.0551701996426055
+Dial A Cake,India,New Delhi,Krishna Nagar,3.2795694002246774
+Fuel Diet Cafe,India,New Delhi,Krishna Nagar,3.2065329105500133
+GO CHATZ With Breadz,India,New Delhi,Krishna Nagar,3.041377686108981
+Goldy Chat Bhandar,India,New Delhi,Krishna Nagar,3.1971447602462453
+Green Chick Chop,India,New Delhi,Krishna Nagar,3.0485745899027368
+Hungry Heights,India,New Delhi,Krishna Nagar,3.131334082037954
+Kebabish,India,New Delhi,Krishna Nagar,3.0944473127759533
+Khalsa Dhaba,India,New Delhi,Krishna Nagar,3.0540673989466116
+Khanna's Hot Pizza,India,New Delhi,Krishna Nagar,3.150889178579333
+Lets Eat Veg,India,New Delhi,Krishna Nagar,3.055798186208639
+Mitra Da Dhabha,India,New Delhi,Krishna Nagar,3.107585153480146
+Murliwala Bakers,India,New Delhi,Krishna Nagar,3.152787989579933
+Panjabi Chic-Shoppe,India,New Delhi,Krishna Nagar,3.1506624790128015
+Raj Petha Bhandar,India,New Delhi,Krishna Nagar,3.1070368671060966
+Ramlal Sweets,India,New Delhi,Krishna Nagar,3.083247957224285
+Sanjha Chula Baba Da,India,New Delhi,Krishna Nagar,3.0636678984443497
+Sri Krishna,India,New Delhi,Krishna Nagar,3.222342976048994
+Sugandh Corner,India,New Delhi,Krishna Nagar,3.150507655368906
+The Friends Cafe,India,New Delhi,Krishna Nagar,3.1909110867122368
+The Muffin Girl,India,New Delhi,Krishna Nagar,3.17423301281245
+Burger Head Quarter BHQ,India,New Delhi,Lado Sarai,3.1963629511280125
+Chez Jerome - Q Cafe,India,New Delhi,Lado Sarai,3.498042324393376
+Mr. Billiken,India,New Delhi,Lado Sarai,3.0996067840532984
+Mulligan Cafe,India,New Delhi,Lado Sarai,3.2078272167081137
+Naya Adda,India,New Delhi,Lado Sarai,3.176510641284377
+OCD - Online Cake Delivery,India,New Delhi,Lado Sarai,3.3374383920880377
+Puja Sandwich House,India,New Delhi,Lado Sarai,3.1957170832247694
+Al-Rihan,India,New Delhi,Lajpat Nagar 1,3.1791378514083855
+All Day 99,India,New Delhi,Lajpat Nagar 1,3.020432105153432
+Anna Dosa,India,New Delhi,Lajpat Nagar 1,3.164092477437282
+Chick Chicken House,India,New Delhi,Lajpat Nagar 1,3.0819477224988203
+Chicken King,India,New Delhi,Lajpat Nagar 1,3.184025373263707
+Choco Kraft,India,New Delhi,Lajpat Nagar 1,3.395691686061386
+Cocoalicious Delights,India,New Delhi,Lajpat Nagar 1,3.311405978657367
+FNV,India,New Delhi,Lajpat Nagar 1,3.060932622498691
+Food En Vouge,India,New Delhi,Lajpat Nagar 1,3.1141820623975356
+Food Junction,India,New Delhi,Lajpat Nagar 1,3.0411795063176523
+Gian Ji Punjabi Dhaba,India,New Delhi,Lajpat Nagar 1,3.0604600520726493
+Govinda,India,New Delhi,Lajpat Nagar 1,3.210209560968278
+Intermission,India,New Delhi,Lajpat Nagar 1,3.2867676169284206
+Karma Cafe & Lounge,India,New Delhi,Lajpat Nagar 1,3.0497797395700688
+Lotes Bakes,India,New Delhi,Lajpat Nagar 1,3.3195559204242233
+New Anna Ka Dosa,India,New Delhi,Lajpat Nagar 1,3.15632239944134
+New Sethi's,India,New Delhi,Lajpat Nagar 1,3.131970739693128
+Punjab Sweets,India,New Delhi,Lajpat Nagar 1,3.102095551607592
+Shri Ram Dhaba,India,New Delhi,Lajpat Nagar 1,3.080544121225884
+Standard Punjabi Food,India,New Delhi,Lajpat Nagar 1,3.0786225414287904
+Sunrise Bakery,India,New Delhi,Lajpat Nagar 1,3.1958042988937354
+Taste of Spice,India,New Delhi,Lajpat Nagar 1,3.112104745507172
+The Celiac Kitchen,India,New Delhi,Lajpat Nagar 1,3.0879686752331073
+K2 Multi Cuisine Restaurant,India,New Delhi,Lajpat Nagar 2,3.517350203064402
+Bigbee,India,New Delhi,Lawrence Road,3.213278646442041
+Delhi 6 Cafe,India,New Delhi,Lawrence Road,3.0760678589628023
+Lala Ji Sweets,India,New Delhi,Lawrence Road,3.238840401096092
+MK's Chinese Food,India,New Delhi,Lawrence Road,3.0941649325312426
+Nirvana The Divine Kitchen,India,New Delhi,Lawrence Road,3.0738069382307818
+Preechen,India,New Delhi,Lawrence Road,3.1134983229454747
+Chawla's Tandoori Junction,India,New Delhi,Laxmi Nagar,3.0550044656904642
+Chennai Express Greens,India,New Delhi,Laxmi Nagar,3.1107036948260944
+Omi Pizza,India,New Delhi,Laxmi Nagar,3.085189000421118
+South Indian & Chinese Fast Food,India,New Delhi,Laxmi Nagar,3.0139887282856774
+The Khoj Cafe Restaurent,India,New Delhi,Laxmi Nagar,3.034158755904211
+Eywa by Saby @ Celeste,India,New Delhi,Lodhi Colony,3.5732072056292417
+Golden Bakery,India,New Delhi,Lodhi Road,3.2560961515864797
+Krishan Sweets,India,New Delhi,Lodhi Road,3.1963035758953895
+Rai Ji Caterers,India,New Delhi,Lodhi Road,3.092303783671287
+Szoun Chinese Food,India,New Delhi,Lodhi Road,3.073322475155748
+Yummy Mummy @ Delhi,India,New Delhi,Lodhi Road,3.218558949860925
+Aakash Sweets & Caterers,India,New Delhi,Mahipalpur,2.953709358912155
+Aapka Mangal Restaurant,India,New Delhi,Mahipalpur,2.9912706588991513
+Al-Karim,India,New Delhi,Mahipalpur,2.9736732694416883
+Apna Dhaba,India,New Delhi,Mahipalpur,2.964979876664348
+Burger Wala,India,New Delhi,Mahipalpur,3.054725103656593
+Cafe Highway,India,New Delhi,Mahipalpur,2.9710757087030073
+Cake Point,India,New Delhi,Mahipalpur,3.149311282063603
+Chatori Zubaan Chur Chur Naan,India,New Delhi,Mahipalpur,2.9539579917187107
+Coffee Shop,India,New Delhi,Mahipalpur,3.247033001667008
+Colonel's Kebabs & Curries,India,New Delhi,Mahipalpur,3.016139160460264
+Dhaba Cash 'n' Carry Kitchen Chur Chur Naan,India,New Delhi,Mahipalpur,2.9671139107262112
+Dolphin - The Food Cafe,India,New Delhi,Mahipalpur,2.997958257410661
+First Treat Bakers,India,New Delhi,Mahipalpur,3.11480551630397
+Flavours Of Delhi,India,New Delhi,Mahipalpur,2.9381963974461813
+Foresto Lawn & Restaurant,India,New Delhi,Mahipalpur,2.992160062072934
+Jain Sweets & Bakers,India,New Delhi,Mahipalpur,2.888200250204407
+JD's Restaurant,India,New Delhi,Mahipalpur,2.942246922434186
+Just Vada Pav,India,New Delhi,Mahipalpur,3.105342085513737
+Kaka De Dhaba,India,New Delhi,Mahipalpur,2.982330006658067
+Kolcata Bengali Dhaba,India,New Delhi,Mahipalpur,2.9617049263392916
+Kukkuu Da Dhaba,India,New Delhi,Mahipalpur,3.007179577341497
+M&S Coffee Cafe,India,New Delhi,Mahipalpur,3.0356623690630284
+Malabar Style Kitchen,India,New Delhi,Mahipalpur,3.134781187375356
+Mathura Lassi Wala,India,New Delhi,Mahipalpur,2.9388285825597036
+Metropolitan Cafe,India,New Delhi,Mahipalpur,2.941494164544879
+Mr. Bake,India,New Delhi,Mahipalpur,3.1076948846490344
+Mughal-E-Zaika,India,New Delhi,Mahipalpur,3.024812634920039
+Mukesh Bhojnalaya,India,New Delhi,Mahipalpur,2.988298291213842
+New Royal Blue Dhaba,India,New Delhi,Mahipalpur,2.9859186346349373
+New Sharma Chicken Corner,India,New Delhi,Mahipalpur,2.9796332813784607
+Pakwan,India,New Delhi,Mahipalpur,2.9824697337094994
+Pizza Corner,India,New Delhi,Mahipalpur,2.935703962903618
+Pokhreli Kitchen,India,New Delhi,Mahipalpur,3.173703751245049
+Rasoi,India,New Delhi,Mahipalpur,3.024528546236062
+Satya Dhaba,India,New Delhi,Mahipalpur,2.9851379995298233
+Sha-O-Lin Chinese Fast Food,India,New Delhi,Mahipalpur,2.9790496294193356
+Shahi Chicken Corner,India,New Delhi,Mahipalpur,3.074351087129733
+Shama Muradabadi,India,New Delhi,Mahipalpur,2.9911975339975116
+Sunil Punjabi Dhaba,India,New Delhi,Mahipalpur,2.9643277746162378
+Sunita Dhaba,India,New Delhi,Mahipalpur,3.0009274579519234
+Taste of India,India,New Delhi,Mahipalpur,2.948617318210892
+U.P. Al-Flah Restaurant,India,New Delhi,Mahipalpur,3.1109615318420234
+Vaishno Da Dhaba,India,New Delhi,Mahipalpur,2.9756383106219007
+Yadav Sweets,India,New Delhi,Mahipalpur,2.9530053099220774
+ABC Restaurant,India,New Delhi,Majnu ka Tila,3.0547692583584327
+Achi Restaurant,India,New Delhi,Majnu ka Tila,3.0263570679655567
+Asian House Restaurant,India,New Delhi,Majnu ka Tila,3.2191640626209512
+Cafe 59,India,New Delhi,Majnu ka Tila,3.3799090287207925
+Drepung Loselling,India,New Delhi,Majnu ka Tila,3.133837106345651
+Dus Bab,India,New Delhi,Majnu ka Tila,3.2862291638992787
+DZI House,India,New Delhi,Majnu ka Tila,3.1456084762942633
+Good Luck Cafe,India,New Delhi,Majnu ka Tila,3.3391960742274813
+Kathmandu,India,New Delhi,Majnu ka Tila,3.042681002684577
+Kullu Manali Restaurant,India,New Delhi,Majnu ka Tila,3.1136507198249896
+Lhamo's Kitchen,India,New Delhi,Majnu ka Tila,3.3303187401598597
+Lhasa Manthang Restaurant,India,New Delhi,Majnu ka Tila,3.1335139841181565
+Lhasa Thali House,India,New Delhi,Majnu ka Tila,3.3302936048623732
+Little Tibet,India,New Delhi,Majnu ka Tila,3.397499744089619
+Lotus House Restaurant,India,New Delhi,Majnu ka Tila,3.180049795647428
+Mahi Rasoi,India,New Delhi,Majnu ka Tila,3.0898191261038987
+New Open Restaurant,India,New Delhi,Majnu ka Tila,3.296076961384952
+Rooftop Restaurant,India,New Delhi,Majnu ka Tila,3.0275332641792034
+Somang House Restaurant,India,New Delhi,Majnu ka Tila,3.1696703791473375
+Tandoori Khazana,India,New Delhi,Majnu ka Tila,3.095988206712256
+Tsopema Restaurant,India,New Delhi,Majnu ka Tila,3.1559262961460863
+Snacks Point,India,New Delhi,Mandi House,3.1814709775041803
+The Sweet Spot,India,New Delhi,Mandi House,3.263961168168107
+Kafe @ Museum,India,New Delhi,Mansingh Road,3.3083295507171897
+Friends Cafe,India,New Delhi,Mathura Road,3.278920450369518
+Mr. Tandoori Lal,India,New Delhi,Mayapuri Phase 2,3.048204486594152
+Om Sweets & Caterers,India,New Delhi,Mayapuri Phase 2,3.0956408056319358
+Sardar Ji Take Away & Caterers,India,New Delhi,Mayapuri Phase 2,3.022385208216847
+Aman Vaishno Dhaba,India,New Delhi,Mayur Vihar Phase 1,3.0010607373995346
+Anupam Hotel,India,New Delhi,Mayur Vihar Phase 1,3.002562190506093
+Bake Bank,India,New Delhi,Mayur Vihar Phase 1,3.1686546813825007
+Buzybee,India,New Delhi,Mayur Vihar Phase 1,3.175460306695646
+Cafe Tandoor,India,New Delhi,Mayur Vihar Phase 1,3.039817482977167
+Chawlas 2,India,New Delhi,Mayur Vihar Phase 1,3.032217733352997
+Choksi Chinese,India,New Delhi,Mayur Vihar Phase 1,2.9728044705754524
+Desi Chulha,India,New Delhi,Mayur Vihar Phase 1,2.967278921588946
+Fumble Foods,India,New Delhi,Mayur Vihar Phase 1,3.018136899430873
+Games v/s Cafe,India,New Delhi,Mayur Vihar Phase 1,3.360167047645585
+Goodies- Snacks N More,India,New Delhi,Mayur Vihar Phase 1,2.9585047799239463
+Grubhouse Cafe,India,New Delhi,Mayur Vihar Phase 1,3.042746670555741
+Mr. Baker's,India,New Delhi,Mayur Vihar Phase 1,3.0650653881596774
+Muradabadi Chicken Biryani & Dhaba,India,New Delhi,Mayur Vihar Phase 1,3.006181018438709
+Pakiza Restaurant,India,New Delhi,Mayur Vihar Phase 1,3.049618337911276
+Riddhi Siddhi Restaurant,India,New Delhi,Mayur Vihar Phase 1,3.0345171892432576
+Rockers & Shockers,India,New Delhi,Mayur Vihar Phase 1,3.01091017805449
+Saikutir Food,India,New Delhi,Mayur Vihar Phase 1,3.006391427040489
+Satnaam Foods,India,New Delhi,Mayur Vihar Phase 1,2.9862845311164454
+Senorita's,India,New Delhi,Mayur Vihar Phase 1,3.151239129748636
+Shri Bala Ji Rasoi,India,New Delhi,Mayur Vihar Phase 1,2.9830587017242918
+South Indian,India,New Delhi,Mayur Vihar Phase 1,3.0552575734056058
+Tip Top Eating Corner,India,New Delhi,Mayur Vihar Phase 1,2.9945217969060884
+ToLoveFromLove,India,New Delhi,Mayur Vihar Phase 1,3.175460306695646
+Tripti Foods,India,New Delhi,Mayur Vihar Phase 1,3.0753522243287557
+U Like,India,New Delhi,Mayur Vihar Phase 1,3.0595713392283255
+Zayka chicken restaurant,India,New Delhi,Mayur Vihar Phase 1,3.017821803084625
+Creamy Creation,India,New Delhi,Mayur Vihar Phase 2,3.1951997303385893
+Evergreen Food Corner,India,New Delhi,Mayur Vihar Phase 2,3.0839624355059065
+K.D Corner,India,New Delhi,Mayur Vihar Phase 2,3.0820298162028514
+A One Muradabadi,India,New Delhi,Mayur Vihar Phase 3,2.9730572530299764
+Annapurna,India,New Delhi,Mayur Vihar Phase 3,2.9418249667504606
+Cake Walkers,India,New Delhi,Mayur Vihar Phase 3,3.079695814289302
+Harish And Sonu Sudh Bhojnalya,India,New Delhi,Mayur Vihar Phase 3,2.975860334932566
+Mitra Da Dhaba,India,New Delhi,Mayur Vihar Phase 3,2.9351957809308566
+Munchies Midnight Delivery,India,New Delhi,Mayur Vihar Phase 3,3.2477673824734143
+Muradabadi Chicken Corner,India,New Delhi,Mayur Vihar Phase 3,3.0884408532174406
+Riyaz Chicken Corner,India,New Delhi,Mayur Vihar Phase 3,3.0952741002564155
+Romano's Pizza,India,New Delhi,Mayur Vihar Phase 3,3.0228098514518136
+Royal Spice,India,New Delhi,Mayur Vihar Phase 3,3.091974962058725
+Sonu Bhojanalya,India,New Delhi,Mayur Vihar Phase 3,2.9650725040789645
+The Deshi Bites,India,New Delhi,Mayur Vihar Phase 3,2.9796238746541452
+#hashtag,India,New Delhi,Mehrauli,3.222999841668246
+Al Zaika,India,New Delhi,Mehrauli,3.1512719385653165
+Ashiyan Foods,India,New Delhi,Mehrauli,3.1360092968423943
+Bake My Day,India,New Delhi,Mehrauli,3.216598523160055
+Bhutani Chaap,India,New Delhi,Mehrauli,2.9892226403046385
+China Pan,India,New Delhi,Mehrauli,2.9979945871590536
+Chinese Fast Food,India,New Delhi,Mehrauli,2.997895073681505
+Dilkhush Punjabi Dhaba,India,New Delhi,Mehrauli,2.992799251260783
+Dragun Hut,India,New Delhi,Mehrauli,2.9911390008830496
+Giani's,India,New Delhi,Mehrauli,3.2601478156955905
+Kathi House,India,New Delhi,Mehrauli,3.067437151109538
+Kerala Kitchen & Restaurant,India,New Delhi,Mehrauli,3.1675958256034606
+Retro Kichen,India,New Delhi,Mehrauli,2.960063555841719
+The China Town,India,New Delhi,Mehrauli,2.9916188188704886
+The Urban Dhaba,India,New Delhi,Mehrauli,3.04313564167912
+Twenty Four Seven,India,New Delhi,Mehrauli,3.033597837723886
+Aap Ki Khatir,India,New Delhi,MG Road,3.1579415674545626
+Aggarwal Sweets,India,New Delhi,MG Road,3.227051022694594
+Baskin Robbins,India,New Delhi,MG Road,3.34170601341906
+Bikaner Sweets,India,New Delhi,MG Road,3.1631878868832115
+Bollywood Khana,India,New Delhi,MG Road,3.089435322050439
+Cake And Bakes,India,New Delhi,MG Road,3.241057755195237
+Cake Point,India,New Delhi,MG Road,3.3111111043600014
+Chinese Corner,India,New Delhi,MG Road,3.0588614109811836
+Choudhary Dhaba,India,New Delhi,MG Road,3.0938867317547647
+Green Chick Chop,India,New Delhi,MG Road,3.1347710928031214
+Green Chick Chop,India,New Delhi,MG Road,3.1568157628870637
+Gujjar Dhaba,India,New Delhi,MG Road,3.1543383217848247
+Hotel Aditi,India,New Delhi,MG Road,3.0993833027167064
+JMD Food Palace,India,New Delhi,MG Road,3.0607370019705824
+Kitchen Namaste,India,New Delhi,MG Road,3.047739920111237
+Lajawab Chicken & Fish Fry,India,New Delhi,MG Road,3.2540731440094897
+Lotus Kitchen,India,New Delhi,MG Road,3.074768530899079
+Manami Japanese Restaurant,India,New Delhi,MG Road,3.2905827610182756
+Manna Sweets & Restaurant,India,New Delhi,MG Road,3.0522133039096477
+Moets Curry Pot,India,New Delhi,MG Road,3.3679341119562625
+Mr. Sub,India,New Delhi,MG Road,3.1744671720433697
+New Gaurav Dhaba,India,New Delhi,MG Road,3.108077627615429
+Pandit Ji Ki Apni Rasoi,India,New Delhi,MG Road,2.9954349553183626
+Rajdhani Restaurant,India,New Delhi,MG Road,3.057743875717736
+Saraswati Food Corner,India,New Delhi,MG Road,3.0329517151548266
+Shri Balaji Bhojnalaya,India,New Delhi,MG Road,3.1075807844695724
+Swadist Bhojnalaya,India,New Delhi,MG Road,3.0481655077000256
+Swiss Gourmessa,India,New Delhi,MG Road,3.2083270194025006
+Truly Yours,India,New Delhi,MG Road,3.158787689382198
+Uttrakhand Hotel,India,New Delhi,MG Road,3.099486704155664
+Vandana Food Corner,India,New Delhi,MG Road,3.0534912110512886
+Zaika Biryani,India,New Delhi,MG Road,3.15694837690252
+Aces - The Card Room,India,New Delhi,"MGM Club, Daryaganj",3.1858310325727137
+Curzon - The Royal Bar,India,New Delhi,"MGM Club, Daryaganj",3.19177371246636
+London Eye - The Open Lounge,India,New Delhi,"MGM Club, Daryaganj",3.185814722294767
+Lord's - The Sports Lounge,India,New Delhi,"MGM Club, Daryaganj",3.1857988537076833
+Viceroy - The Coffee Shop,India,New Delhi,"MGM Club, Daryaganj",3.4415970535655234
+Sweeter Delight,India,New Delhi,Model Town 3,3.2952367039844077
+Amit Dhaba,India,New Delhi,Moti Nagar,3.188400867876199
+Apni Rasoi,India,New Delhi,Moti Nagar,3.0194445838240567
+Chap Corner,India,New Delhi,Moti Nagar,3.3261357537409655
+Chinese Corner,India,New Delhi,Moti Nagar,3.083411671247609
+Evergreen Punjabi Swad,India,New Delhi,Moti Nagar,3.092678279291847
+Giani,India,New Delhi,Moti Nagar,3.3069946899459657
+Hot & Hot Shudhir Chinese Point,India,New Delhi,Moti Nagar,3.0924725110386015
+Hungerz Hub,India,New Delhi,Moti Nagar,3.1880103881237623
+Magic Mo:Mo Corner,India,New Delhi,Moti Nagar,3.0946579241452725
+Malhotra's Zayeeka,India,New Delhi,Moti Nagar,3.0440635323395275
+Moji Dhaba,India,New Delhi,Moti Nagar,3.100760538410319
+Naughty 9 Kitchen & Bar,India,New Delhi,Moti Nagar,3.062718116465303
+Street Chaat Chatoron Ka Adda,India,New Delhi,Moti Nagar,3.2841447404215827
+Syall Kotian Da Dhaba,India,New Delhi,Moti Nagar,3.1035734244659285
+Taaj Kitchen,India,New Delhi,Moti Nagar,3.2854163229909474
+Tirath Sweets,India,New Delhi,Moti Nagar,3.1258072381687314
+Tummyy Tull,India,New Delhi,Moti Nagar,3.1916188319075545
+Bawarchi's Canteen,India,New Delhi,Mukherjee Nagar,2.992583937395088
+Bikaner Restaurant,India,New Delhi,Mukherjee Nagar,2.989621192639249
+Bikaner Sweets Chaat cafe,India,New Delhi,Mukherjee Nagar,2.984659358356904
+Brijwasi,India,New Delhi,Mukherjee Nagar,2.9866339258868977
+Chaap Chaska,India,New Delhi,Mukherjee Nagar,3.060094508006447
+Delhi Chaap Express,India,New Delhi,Mukherjee Nagar,3.0127803379697924
+Delhi Chaat Bhandar,India,New Delhi,Mukherjee Nagar,3.0682604351900364
+Delhite P��tisserie,India,New Delhi,Mukherjee Nagar,3.113175647268908
+Desi Dhaba,India,New Delhi,Mukherjee Nagar,3.0230929369453534
+Desi Thaat Amritsari Naan,India,New Delhi,Mukherjee Nagar,3.0240119898899547
+Dhaba Express,India,New Delhi,Mukherjee Nagar,3.0116095718863645
+Flavours Kitchen,India,New Delhi,Mukherjee Nagar,3.0698051240511988
+Food Campus,India,New Delhi,Mukherjee Nagar,2.9887065135016897
+Fresh Fast Food,India,New Delhi,Mukherjee Nagar,2.989997719269091
+Gungun Tiffin Services,India,New Delhi,Mukherjee Nagar,3.015336940879406
+Happy Italiano,India,New Delhi,Mukherjee Nagar,3.0567325691840317
+Haryana Bhojnalaya,India,New Delhi,Mukherjee Nagar,2.990068135117232
+Hasty Tasty,India,New Delhi,Mukherjee Nagar,2.9525400140330866
+Inam Muradabadi,India,New Delhi,Mukherjee Nagar,3.0810489127202496
+Just In,India,New Delhi,Mukherjee Nagar,3.0127839544925443
+Jyoti Dhaba,India,New Delhi,Mukherjee Nagar,3.0043806587139548
+Lasha Chinese Food,India,New Delhi,Mukherjee Nagar,2.982137753532177
+Lasha Chinese Food,India,New Delhi,Mukherjee Nagar,2.98510518978894
+Lily Tasty Fast Food,India,New Delhi,Mukherjee Nagar,2.936200471134624
+Maa Vaishno Dinesh Dhaba,India,New Delhi,Mukherjee Nagar,2.988641087169468
+Madras Cafe,India,New Delhi,Mukherjee Nagar,2.9104038453269103
+NIK's Chicken Corner,India,New Delhi,Mukherjee Nagar,3.0245704256997916
+Om Shanti Foods,India,New Delhi,Mukherjee Nagar,2.9901819791411803
+Panj Tara,India,New Delhi,Mukherjee Nagar,3.0275906451750534
+Pasta Pizza & Roll Hut,India,New Delhi,Mukherjee Nagar,3.163384207538689
+Pheva Tandooris,India,New Delhi,Mukherjee Nagar,3.0081275544674795
+Punjabi Delight,India,New Delhi,Mukherjee Nagar,3.0239803714547726
+Punjabi Parantha Station and Punjabi Thali,India,New Delhi,Mukherjee Nagar,3.0037467866215475
+Punjabi Paratha Station,India,New Delhi,Mukherjee Nagar,2.988001148956352
+Raja Rasoi,India,New Delhi,Mukherjee Nagar,3.012650743761097
+Rollacious,India,New Delhi,Mukherjee Nagar,3.0215646779991725
+Singh Chicken,India,New Delhi,Mukherjee Nagar,3.0285178708039115
+Special Tea Point,India,New Delhi,Mukherjee Nagar,3.0077814817458504
+Spl. Flavour Sodas & Fruit shakes,India,New Delhi,Mukherjee Nagar,3.09632135341451
+Student Corner,India,New Delhi,Mukherjee Nagar,2.9824414994345574
+Taneja Corner,India,New Delhi,Mukherjee Nagar,3.012654690305709
+Taste Zone,India,New Delhi,Mukherjee Nagar,2.9903277055131436
+Tea Point,India,New Delhi,Mukherjee Nagar,3.149016606837068
+West Bangal Kolkata Hot Kathi Rolls,India,New Delhi,Mukherjee Nagar,3.0487412965536924
+Aggarwal Sweets,India,New Delhi,Munirka,2.9631634157970677
+Aggarwal Sweets,India,New Delhi,Munirka,2.9973381504239445
+Al Meraj Chicken Shop,India,New Delhi,Munirka,3.060675180942593
+Chinese Food Corner,India,New Delhi,Munirka,2.994759996171225
+Creative Food House,India,New Delhi,Munirka,3.1054490370323045
+D.A.A.,India,New Delhi,Munirka,2.995154153732925
+Dee Cake Shop,India,New Delhi,Munirka,3.132264063817179
+Jaca Restaurant,India,New Delhi,Munirka,3.02275876420022
+King Of Roll,India,New Delhi,Munirka,3.040024959599507
+Kirti Food Plaza,India,New Delhi,Munirka,3.0071638011353445
+KT's Shik-Shack,India,New Delhi,Munirka,3.1706980440119064
+Namaste Restaurant,India,New Delhi,Munirka,2.9961640263628135
+Nishaj Chicken Corner,India,New Delhi,Munirka,3.031577150415857
+Royal Bakery,India,New Delhi,Munirka,3.185787217185575
+S.R. Bakers,India,New Delhi,Munirka,3.0734202450633354
+Shahi Muradabadi,India,New Delhi,Munirka,3.1242266616670693
+Shree Vinayaga Restaurant,India,New Delhi,Munirka,3.1292292949563203
+The Cake Basket,India,New Delhi,Munirka,3.078015969440729
+The Pure Kitchen,India,New Delhi,Munirka,3.1189491016340747
+The Yolmo Kitchen,India,New Delhi,Munirka,3.0185725887385013
+Zawlbuk,India,New Delhi,Munirka,3.121934933498866
+Aditya Da Vaishno Dhaba,India,New Delhi,Najafgarh,3.010149995530888
+Aggarwal Bikaner Sweets,India,New Delhi,Najafgarh,2.994408801080688
+Aggarwal Sweet Centre,India,New Delhi,Najafgarh,3.051006595972127
+Anjel China & Tibetian Food,India,New Delhi,Najafgarh,3.1160156401046954
+Annpurna Rasoi,India,New Delhi,Najafgarh,3.0007438580312784
+Apni Rasoi,India,New Delhi,Najafgarh,3.0775947440865794
+Bajrang Misthan Bhawan,India,New Delhi,Najafgarh,2.9936926200595972
+Bake Town,India,New Delhi,Najafgarh,3.0239185502392756
+Bikaner Sweets & Restaurant,India,New Delhi,Najafgarh,3.078819747611432
+Brown Town Bakers,India,New Delhi,Najafgarh,3.1483598282258445
+Captain Food Factory,India,New Delhi,Najafgarh,3.0053945083304585
+Cheffron Bakery,India,New Delhi,Najafgarh,3.13380213653768
+Chicken Darwar,India,New Delhi,Najafgarh,3.1223539640605305
+Chili's Treat,India,New Delhi,Najafgarh,2.980046032715882
+Chilli Tadka,India,New Delhi,Najafgarh,3.0136962952207185
+Chinese Food Point,India,New Delhi,Najafgarh,3.0178509595651244
+Chinese Temptation,India,New Delhi,Najafgarh,3.019076168820993
+Dana Pani,India,New Delhi,Najafgarh,3.012944733909393
+Dev Sweets & Restaurant,India,New Delhi,Najafgarh,2.9760916513493942
+Dilli Darbar Chicken Point,India,New Delhi,Najafgarh,3.1605246800763003
+Food Point and Sweets Corner,India,New Delhi,Najafgarh,2.955236684708467
+Green Chick Chop,India,New Delhi,Najafgarh,3.160702276717284
+Grover Burfee & Cakes,India,New Delhi,Najafgarh,3.0331696144165328
+Hans's Planet-F,India,New Delhi,Najafgarh,2.973510178539266
+Hotel Delhi 43,India,New Delhi,Najafgarh,3.098850037033296
+Kanhaiya Fast Food,India,New Delhi,Najafgarh,3.0190501656414774
+Karol Bagh Ke Chhole Bhature,India,New Delhi,Najafgarh,3.002608377733143
+King's Food,India,New Delhi,Najafgarh,3.0196388388371505
+Lamba Sweets Corner,India,New Delhi,Najafgarh,2.9804912396349055
+Laxmi Food Corner,India,New Delhi,Najafgarh,3.0051894338787895
+Lounge Bakery,India,New Delhi,Najafgarh,3.140759765726224
+Mehtaab Sweet Corner & Restaurant,India,New Delhi,Najafgarh,2.990439076227718
+Melting Food Point,India,New Delhi,Najafgarh,3.0138290292954695
+Mithla Dhabha,India,New Delhi,Najafgarh,3.010642133957661
+Mittal Caterer,India,New Delhi,Najafgarh,3.0648750690621576
+Mittal Restaurant & Fast Food,India,New Delhi,Najafgarh,3.033450045670008
+NBC Nirankari Bakers,India,New Delhi,Najafgarh,3.0117511005593594
+Pind Balluchi,India,New Delhi,Najafgarh,3.0047434496376306
+Prem Chinese Fast Food,India,New Delhi,Najafgarh,3.01345517840506
+Punjabi Rasoi,India,New Delhi,Najafgarh,3.127920994560501
+Punjabi Special,India,New Delhi,Najafgarh,3.0165469665641327
+Radhe Shyam Dhaba,India,New Delhi,Najafgarh,3.0206680170316735
+Raj Rasoi,India,New Delhi,Najafgarh,3.0049281570109843
+Raju De Special Paneer Wale,India,New Delhi,Najafgarh,2.9730767996440077
+Sangeeta Dhaba,India,New Delhi,Najafgarh,3.015410016157676
+Sat Narayan Fast Food,India,New Delhi,Najafgarh,2.9272561712889376
+Shahi Chicken Point,India,New Delhi,Najafgarh,3.135642482360205
+Sharma Sweets,India,New Delhi,Najafgarh,2.980468528247595
+Shere Hind Chicken Corner,India,New Delhi,Najafgarh,3.1568322263837167
+Shiv Shakti Dhaba,India,New Delhi,Najafgarh,2.982885351602948
+Shree Shyam Sweets,India,New Delhi,Najafgarh,3.115369677324196
+Shri Shyam Ji Shudh Shakahari Bhojnalaya,India,New Delhi,Najafgarh,3.0031404932069066
+Sky Hawk,India,New Delhi,Najafgarh,3.044169074442414
+Snack Shack,India,New Delhi,Najafgarh,2.9840012516850054
+Soya Bite's,India,New Delhi,Najafgarh,3.0277307831655516
+Soya Bite's,India,New Delhi,Najafgarh,3.0240963802077765
+Taj Mahal Dhaba,India,New Delhi,Najafgarh,3.0276097627595346
+Yadav Sweets,India,New Delhi,Najafgarh,3.05104403599682
+Yummy Chinese Food,India,New Delhi,Najafgarh,3.006029130003138
+Aggarwal Sweets Corner,India,New Delhi,Nangloi,3.2167279035493426
+Anand Sweets,India,New Delhi,Nangloi,3.268368541941575
+Annapurna Sweets Palace,India,New Delhi,Nangloi,3.26906181454388
+Aujla's Punjabi Zaika,India,New Delhi,Nangloi,3.100462321775841
+Baba Ji,India,New Delhi,Nangloi,3.2555699996283014
+Babu Soup Wala,India,New Delhi,Nangloi,3.1583319470659648
+Baketown By Gagan Bakers,India,New Delhi,Nangloi,3.2198686567499144
+Bala Ji Rasoi,India,New Delhi,Nangloi,3.1464902682409175
+Bansiwala Sweets & Caterers,India,New Delhi,Nangloi,3.266445899037901
+Best Chicken Corner,India,New Delhi,Nangloi,3.155544045324807
+Bhardwaj Bakery,India,New Delhi,Nangloi,3.225581530538769
+Bikaner Sweets & Restaurant,India,New Delhi,Nangloi,3.252825082727343
+Classic Chef Corner,India,New Delhi,Nangloi,3.066124445285874
+Dabas Ke Special Chole Bhature,India,New Delhi,Nangloi,3.358974632989757
+Daily Belly,India,New Delhi,Nangloi,3.1026127132848247
+Deep Bakery And Cake,India,New Delhi,Nangloi,3.301620990742284
+Dhaba NH10,India,New Delhi,Nangloi,3.099903225901481
+Dilkhush Dhaba,India,New Delhi,Nangloi,3.1417463669241936
+Do Bhai Paneer Wale And Sweets,India,New Delhi,Nangloi,3.2441495990450404
+Dosa and Pizza Corner,India,New Delhi,Nangloi,3.1432761260247886
+Gulati Ki Rasoi,India,New Delhi,Nangloi,3.1535349365820435
+JMD Family Restaurant,India,New Delhi,Nangloi,3.066011989807664
+Jyoti Sweets,India,New Delhi,Nangloi,3.216365920378888
+Khana Khazana,India,New Delhi,Nangloi,3.1434220759652103
+Krishna Panjabi Rasoi,India,New Delhi,Nangloi,3.1419827690622197
+Lazeez Zaika,India,New Delhi,Nangloi,3.081122500295156
+Mannat Chinese Fast Food,India,New Delhi,Nangloi,3.186301514876466
+Pizza Hot,India,New Delhi,Nangloi,3.3148525928417167
+Raju Fast Food,India,New Delhi,Nangloi,3.3131930507819516
+Ramesh Caterers & Dhaba,India,New Delhi,Nangloi,3.144707602071623
+Sethi's Express,India,New Delhi,Nangloi,3.09749006154553
+Shahi Chicken Biryani Corner,India,New Delhi,Nangloi,3.350158801427982
+Spicy Curry,India,New Delhi,Nangloi,3.146494278182556
+Super Star Restaurant,India,New Delhi,Nangloi,3.1451405722914276
+Swagi Food Corner,India,New Delhi,Nangloi,3.1500678452309816
+Taoji Ke Amratsari Naan,India,New Delhi,Nangloi,3.1409183965696634
+TCW Chaat Point,India,New Delhi,Nangloi,3.3591567928003374
+The Food Express,India,New Delhi,Nangloi,3.15354061669598
+The Pizza Family,India,New Delhi,Nangloi,3.2213232541554584
+The Regal Chicken Corner,India,New Delhi,Nangloi,3.2449448819941034
+Welcome Rasoi,India,New Delhi,Nangloi,3.1430495397155966
+A Patisseries Gallery,India,New Delhi,Naraina,3.17781364349693
+Aggarwal Bikaneri Sweets,India,New Delhi,Naraina,2.975342381329048
+Aggarwal Sweets & Bakers,India,New Delhi,Naraina,3.1616073187085507
+Avatar Da Dhaba,India,New Delhi,Naraina,3.0082838670136915
+Bengali Restaurant,India,New Delhi,Naraina,2.9809993343262864
+Biryani Express,India,New Delhi,Naraina,3.078463619970612
+Brahm Point Fast Food,India,New Delhi,Naraina,2.9951784021428547
+Chinese Hot,India,New Delhi,Naraina,2.991409403104507
+Curry Man,India,New Delhi,Naraina,3.0105630418263036
+Diya Chinese Food,India,New Delhi,Naraina,2.9949981501478247
+Foodies,India,New Delhi,Naraina,2.979289681819382
+Fresh Meat CO,India,New Delhi,Naraina,2.992572157793542
+Hans Fast Food Center,India,New Delhi,Naraina,3.1182456621679293
+Happy Hours,India,New Delhi,Naraina,2.9921145985412743
+Khalsa Eating Point,India,New Delhi,Naraina,3.022866205079917
+Krishna Yummy Foods,India,New Delhi,Naraina,3.0165548004838834
+Laxmi Dhaba,India,New Delhi,Naraina,2.990479833159127
+Milan Shudh Vaishno,India,New Delhi,Naraina,3.0201167014100654
+Milko Sweets Corner,India,New Delhi,Naraina,2.999506085792365
+New Punjabi Chaap Corner,India,New Delhi,Naraina,2.9966323357639526
+Nik's Chawla Chik Inn,India,New Delhi,Naraina,3.0115101342025064
+Paras Corner,India,New Delhi,Naraina,2.9989273162056747
+Punjabi Tadka,India,New Delhi,Naraina,2.888583282140658
+Sardar A Pure Meat Shop,India,New Delhi,Naraina,2.9618085247565844
+Shahi Hyderbadi Biryani,India,New Delhi,Naraina,3.0824199574058357
+Shashi's China Wok,India,New Delhi,Naraina,2.9964431723213822
+Urban Palate,India,New Delhi,Naraina,3.0622461627239517
+Wrapss,India,New Delhi,Naraina,2.9565814720323678
+China Kitchen,India,New Delhi,Narela,3.3173648640289866
+Chowringhee,India,New Delhi,Narela,3.3140824632845716
+D-Food,India,New Delhi,Narela,3.1680925749343145
+Kith N Kin Cafeteria,India,New Delhi,Narela,3.100002096713823
+Lazeez Rasoi,India,New Delhi,Narela,3.102889156247854
+Red Rose Restaurant,India,New Delhi,Narela,3.2746839023886265
+Shri Bikaner Sweets & Restaurant,India,New Delhi,Narela,3.1172509926735934
+Welcome Family Restaurant,India,New Delhi,Narela,3.2045589187241563
+Al Mughal,India,New Delhi,Nehru Place,3.2018299778296204
+Anupama Restaurant,India,New Delhi,Nehru Place,3.068905138542361
+Cafe Einstein,India,New Delhi,Nehru Place,3.069271435279626
+Delicious Eating Corner,India,New Delhi,Nehru Place,3.071576608708877
+Gupta Rasoi,India,New Delhi,Nehru Place,3.07967874433887
+Paras Chicken Point,India,New Delhi,Nehru Place,3.071581415189695
+Ralhan Eating Corner,India,New Delhi,Nehru Place,3.0794517794158818
+Annapurna Food Point,India,New Delhi,New Friends Colony,3.0717279194285485
+Arabian & Turkish Caf��,India,New Delhi,New Friends Colony,3.1507236014251143
+Brij Palace Restaurant,India,New Delhi,New Friends Colony,3.098830534148627
+Bruncheez,India,New Delhi,New Friends Colony,3.13782894264913
+Buena Tierra,India,New Delhi,New Friends Colony,3.184615286600428
+Cafe Coffee Day,India,New Delhi,New Friends Colony,2.920297356958373
+Chokoreto - The Cake Design Studio,India,New Delhi,New Friends Colony,3.2828340411352093
+Crazylicious Cakes N Desserts,India,New Delhi,New Friends Colony,3.2828340411352093
+Halal Pizza 'n' Joy,India,New Delhi,New Friends Colony,3.1300405022849898
+Shree Bhojnalaya,India,New Delhi,New Friends Colony,3.0608182755072
+Shree Laxmi Dhaba,India,New Delhi,New Friends Colony,3.0588981992396547
+Swaad Restaurant,India,New Delhi,New Friends Colony,3.113564850275109
+The Bay Leaf,India,New Delhi,New Friends Colony,3.1034755024593945
+Chick Fish Point,India,New Delhi,Nizamuddin,3.094008680496265
+Monis Kada Hotel,India,New Delhi,Nizamuddin,3.257414710956165
+Aloo Bhaji Restaurant,India,New Delhi,Okhla Phase 1,3.0994513321643877
+Chinese Corner,India,New Delhi,Okhla Phase 1,3.08052504284736
+Gupta Bhojnalya,India,New Delhi,Okhla Phase 1,3.1201222146727368
+Sam's 22,India,New Delhi,Okhla Phase 1,3.28642739061626
+The Bakery,India,New Delhi,Okhla Phase 1,3.261515517682284
+Twenty Four Seven,India,New Delhi,Okhla Phase 1,3.0888940854990246
+Vishal Snacks,India,New Delhi,Okhla Phase 1,3.043099486853602
+Cafe Point,India,New Delhi,Okhla Phase 2,3.2303043522491866
+TLC Kitchen,India,New Delhi,Okhla Phase 2,3.310249833458059
+Creambell & Chocoxess,India,New Delhi,"Pacific Mall, Tagore Garden",3.3937724251448893
+Hang Out,India,New Delhi,"Pacific Mall, Tagore Garden",3.3850670954486817
+Mx Corn,India,New Delhi,"Pacific Mall, Tagore Garden",3.1384731603193687
+The Belgian Fries Company,India,New Delhi,"Pacific Mall, Tagore Garden",3.2917651888850568
+Cafe Brownie,India,New Delhi,Paharganj,3.2707691717681584
+Cafexpress,India,New Delhi,Paharganj,3.245048108814294
+Mauja Hi Mauja,India,New Delhi,Paharganj,3.111989238748775
+Metro Bar & Family Restaurant,India,New Delhi,Paharganj,2.8890029798663805
+Aggarwal Bikaner Wala,India,New Delhi,Palam,2.8797567215509927
+Aggarwal Sweet Centre,India,New Delhi,Palam,2.927759498266332
+Aggarwal Sweet India,India,New Delhi,Palam,2.881769485269778
+Aggarwal Sweets Centre,India,New Delhi,Palam,2.904850349883027
+Aggarwal Sweets,India,New Delhi,Palam,2.9192501960391466
+Anupama Snacks and Sweets Corner,India,New Delhi,Palam,2.9055357001418844
+Baba Ka Dhaba,India,New Delhi,Palam,2.949081279489773
+Balaji Eating Point,India,New Delhi,Palam,2.940101328218387
+Bhagat Ji Sweets,India,New Delhi,Palam,2.991877939555388
+Bikaner Sweet Corner,India,New Delhi,Palam,2.884386933190372
+Chavi Food Point,India,New Delhi,Palam,2.9815904229027925
+Cook & Connect,India,New Delhi,Palam,2.9785303738132276
+Dinesh Ka Mithila Dhaba,India,New Delhi,Palam,2.929343128332408
+Domino's Pizza,India,New Delhi,Palam,2.7928381352981337
+Flavors Of London,India,New Delhi,Palam,3.115205642471156
+Flavours Of London,India,New Delhi,Palam,3.1152887984346487
+Foji Bhai Hotel,India,New Delhi,Palam,2.9204587901995707
+Green Chilli,India,New Delhi,Palam,2.9271612466059014
+Hook N Cook,India,New Delhi,Palam,2.953825390505389
+Hyderabadi & Muradabadi Chicken Corner,India,New Delhi,Palam,3.0649589976232274
+It's Pizza Town,India,New Delhi,Palam,2.9298721119424203
+ITO Ke Mashoor Chole Bhature,India,New Delhi,Palam,2.983261638613122
+Janta Special Lassi Corner,India,New Delhi,Palam,3.0269725802835548
+Kairi The Royal Taste,India,New Delhi,Palam,2.911058813423482
+Kasba,India,New Delhi,Palam,2.938493337242031
+Kayasthas Food Junction,India,New Delhi,Palam,2.940476847303156
+KGN Chicken Corner,India,New Delhi,Palam,3.060984535640121
+Maggi Point,India,New Delhi,Palam,2.9501592688812655
+Momozone,India,New Delhi,Palam,2.9677710000286845
+Munna Bakery,India,New Delhi,Palam,3.0017568568711246
+N.S. Pizza Point,India,New Delhi,Palam,2.993811130196172
+Nand Bhai Chholey Bhature,India,New Delhi,Palam,2.9951259791991927
+New Lazeez Tandoor,India,New Delhi,Palam,2.91207148427693
+Pizza Day,India,New Delhi,Palam,2.918174279876121
+Pizza Day,India,New Delhi,Palam,2.932936457224883
+Pritam Tiffin Service,India,New Delhi,Palam,2.917906674300911
+Rana Sweets and Restaurant,India,New Delhi,Palam,2.8744891774924373
+Rastogi Sweets & Caterers,India,New Delhi,Palam,2.88859203555261
+Recipe Tadka,India,New Delhi,Palam,2.961537096982248
+Sahi Pakde Hain,India,New Delhi,Palam,2.9535346750781994
+Sher e Punjab Rasoi,India,New Delhi,Palam,2.96636572228401
+Shyam Rasoi,India,New Delhi,Palam,2.9644209392916605
+Subhan Chicken Biryani,India,New Delhi,Palam,3.0661112186447057
+Surprise - Bakers & Bites,India,New Delhi,Palam,3.003663316220802
+The Night Rider,India,New Delhi,Palam,2.914814345550875
+Vikram Ji Snacks,India,New Delhi,Palam,2.9859843227402125
+Yadav Chaat Bhandar,India,New Delhi,Palam,2.989981749919239
+Yadav Ji Chholey Bhature,India,New Delhi,Palam,2.944324641399413
+Berco's,India,New Delhi,"Palate of Delhi, Chanakyapuri",3.4532709592491058
+Chicago Pizza,India,New Delhi,"Palate of Delhi, Chanakyapuri",2.9532416360123497
+Domino's Pizza,India,New Delhi,"Palate of Delhi, Chanakyapuri",2.8319646687002047
+Dunkin' Donuts,India,New Delhi,"Palate of Delhi, Chanakyapuri",3.465443819377095
+Keventers,India,New Delhi,"Palate of Delhi, Chanakyapuri",3.290406775530828
+Khan Chacha,India,New Delhi,"Palate of Delhi, Chanakyapuri",3.164690829311378
+Wow! Momo,India,New Delhi,"Palate of Delhi, Chanakyapuri",3.0382759949161713
+Angelena Restaurant,India,New Delhi,Pandav Nagar,2.9939141317005866
+Chennai Dosa Express,India,New Delhi,Pandav Nagar,3.2474784139676034
+Chennai Dosa Xpress,India,New Delhi,Pandav Nagar,3.1825623920450683
+Domino's Pizza,India,New Delhi,Pandav Nagar,2.76011924155216
+Foodizm,India,New Delhi,Pandav Nagar,2.990681863060142
+Healthy Nutrienty,India,New Delhi,Pandav Nagar,3.346665456425826
+Kalka Ji Rasoi,India,New Delhi,Pandav Nagar,3.071187213686921
+Kolkata Biriyani On Call,India,New Delhi,Pandav Nagar,3.1610197986037765
+Mahavir Sweets,India,New Delhi,Pandav Nagar,3.099283144750622
+Massi's Kitchen,India,New Delhi,Pandav Nagar,3.0188600989816594
+New Shama Chicken Restaurant,India,New Delhi,Pandav Nagar,3.2234802053201337
+Pizza King,India,New Delhi,Pandav Nagar,3.050977869881669
+Raj Shri,India,New Delhi,Pandav Nagar,3.01934485016884
+Roll Junction,India,New Delhi,Pandav Nagar,3.016149887691986
+Sai Bhojanalay,India,New Delhi,Pandav Nagar,3.0364597333207746
+Shree Balaji Caterers,India,New Delhi,Pandav Nagar,3.1093298331030725
+Smily Cakes,India,New Delhi,Pandav Nagar,3.157699898980781
+Zaika Restaurant,India,New Delhi,Pandav Nagar,3.1193976533494183
+3x Cafe,India,New Delhi,Pitampura,3.3251800410897485
+Amritsari Naan,India,New Delhi,Pitampura,3.0742409925912275
+Chinese Tadka,India,New Delhi,Pitampura,3.0289828781595385
+Dinesh Meat Wala,India,New Delhi,Pitampura,3.1526870867379424
+Jeet Pizza,India,New Delhi,Pitampura,3.1949139023650748
+New South Indian & Chinese Foods,India,New Delhi,Pitampura,3.022646301592607
+Niti Shake & Ice Cream Hub,India,New Delhi,Pitampura,3.3556863737581555
+Yumbuns,India,New Delhi,Pitampura,3.122154436967487
+Chocolacious by WedCraft,India,New Delhi,Prashant Vihar,3.2519293496283375
+Frontier,India,New Delhi,Prashant Vihar,3.026004435607626
+Gopal Ji Rasoi Wala,India,New Delhi,Prashant Vihar,3.0406761054177984
+Kanuchawala,India,New Delhi,Prashant Vihar,3.004608168406552
+Keventers,India,New Delhi,Prashant Vihar,3.274193044328661
+Muncheezz,India,New Delhi,Prashant Vihar,3.011437203514782
+Shaketastic,India,New Delhi,Prashant Vihar,3.3172065431216193
+Sree Krishna Udupi,India,New Delhi,Prashant Vihar,3.0073743792635783
+Baskin Robbins,India,New Delhi,Preet Vihar,3.1880267912469415
+Chai Garam,India,New Delhi,Preet Vihar,3.1789064281381902
+Chilli Tadka,India,New Delhi,Preet Vihar,3.057798654821954
+Colours of Biryani,India,New Delhi,Preet Vihar,3.170951812003053
+Fc Katyal,India,New Delhi,Preet Vihar,3.0375424956017243
+Food State,India,New Delhi,Preet Vihar,3.082007486596388
+Giani,India,New Delhi,Preet Vihar,3.258474696803204
+Gupta Eating Corner,India,New Delhi,Preet Vihar,3.07613980005335
+Hot 'N' Cool,India,New Delhi,Preet Vihar,3.23474481986215
+Hot Joint Fast Food,India,New Delhi,Preet Vihar,3.011328560393018
+Murliwala Bakers,India,New Delhi,Preet Vihar,3.1647962375119914
+New Garden Hut,India,New Delhi,Preet Vihar,3.0584359884635246
+Perfect Party Chef,India,New Delhi,Preet Vihar,3.0681969142008447
+R.S. Chinese Food,India,New Delhi,Preet Vihar,3.1448324986877996
+Rama Fast Food,India,New Delhi,Preet Vihar,3.063587710229393
+Shanghai Chinese Food,India,New Delhi,Preet Vihar,3.0197955024794725
+Teens Cafe Fast Food,India,New Delhi,Preet Vihar,3.041411465277746
+The Tandoor Hut,India,New Delhi,Preet Vihar,3.1185662724390566
+The Taste of Tandoor,India,New Delhi,Preet Vihar,3.0868302481405916
+Aqua Grill - Pride Plaza Hotel,India,New Delhi,"Pride Plaza Hotel, Aerocity",3.3509397605819746
+Mr. Confectioner - Pride Plaza Hotel,India,New Delhi,"Pride Plaza Hotel, Aerocity",3.139112999995259
+Cafe Coffee Day,India,New Delhi,Qutab Institutional Area,2.9928387616525027
+Cake Walk,India,New Delhi,Qutab Institutional Area,2.995441949061755
+Chhotu Restaurant,India,New Delhi,Qutab Institutional Area,3.0295865518313634
+Dabbba Wala Home Away,India,New Delhi,Qutab Institutional Area,3.020697959167981
+Foodieholic,India,New Delhi,Qutab Institutional Area,2.987935576713644
+Fourteen Eleven Tea Cafe,India,New Delhi,Qutab Institutional Area,3.026417239765158
+Hungry Folks Food Corner,India,New Delhi,Qutab Institutional Area,2.9353693494400317
+Hungry Folks,India,New Delhi,Qutab Institutional Area,2.979853407109923
+Hussain - UP Ki Mashoor Biryani,India,New Delhi,Qutab Institutional Area,3.1618588110441204
+Just Vada Pav,India,New Delhi,Qutab Institutional Area,3.078869941103261
+Mangal Ji and Gupta Ji Dhaba,India,New Delhi,Qutab Institutional Area,3.0298772661374223
+Pandey Ji Restaurant,India,New Delhi,Qutab Institutional Area,2.979324611291422
+Quality Restaurant,India,New Delhi,Qutab Institutional Area,3.029197761948991
+Ravi Ke Parathe,India,New Delhi,Qutab Institutional Area,2.972847243290043
+Sahara Restaurant,India,New Delhi,Qutab Institutional Area,3.106847447057926
+Shere-E-Punjab,India,New Delhi,Qutab Institutional Area,2.9880284100170944
+Shree Jagannath Restaurant,India,New Delhi,Qutab Institutional Area,3.044755315161762
+Sumona Restaurant,India,New Delhi,Qutab Institutional Area,3.0115457778343044
+The Hubbub Cafe and Restaurant,India,New Delhi,Qutab Institutional Area,3.011667581821296
+Welcome Fast Food & Parantha,India,New Delhi,Qutab Institutional Area,2.9585583863018594
+"34, Chowringhee Lane",India,New Delhi,R K Puram,3.215816532711949
+Aggarwal Sweets,India,New Delhi,R K Puram,2.972650863672334
+Alam Biryani,India,New Delhi,R K Puram,3.209819646104279
+Behrouz Biryani,India,New Delhi,R K Puram,3.3184586116133494
+Biryani Point,India,New Delhi,R K Puram,3.1772861631208507
+Chinese Hut,India,New Delhi,R K Puram,3.0526547561177315
+Dada Ka Dhaba,India,New Delhi,R K Puram,3.217130116746499
+Die B�_ckerei,India,New Delhi,R K Puram,3.3094482256076674
+Faaso's,India,New Delhi,R K Puram,3.1250395893732286
+Gupta Ji Ka Dhaba,India,New Delhi,R K Puram,3.268808187260321
+Hot & Tasty,India,New Delhi,R K Puram,3.053886372408482
+Kaka Da Dhaba,India,New Delhi,R K Puram,3.0463493980016487
+Kingdom Restaurant,India,New Delhi,R K Puram,3.0850958598502913
+Little Delhi,India,New Delhi,R K Puram,3.083742990329039
+Million Kitchen,India,New Delhi,R K Puram,3.2527714017968776
+Ok Indian & Chinese Food Corner,India,New Delhi,R K Puram,3.080205571926607
+Ovenstory Pizza,India,New Delhi,R K Puram,3.0449069815354415
+Pakeeza Chicken Corner,India,New Delhi,R K Puram,3.084894422619939
+Rapchick Biryani,India,New Delhi,R K Puram,3.079970010228217
+Rupa Bangali Dhaba,India,New Delhi,R K Puram,3.1468588585443706
+Sindh Snacks,India,New Delhi,R K Puram,3.0834112403474583
+Vaishanavi Food Store,India,New Delhi,R K Puram,3.0933953922681194
+Guru Om Vanna,India,New Delhi,Rajendra Place,3.504277762313014
+Khaao Peeyo,India,New Delhi,Rajendra Place,3.378159103400797
+New Chow Maun,India,New Delhi,Rajendra Place,3.1834369042193718
+Oye!! Shawarma,India,New Delhi,Rajendra Place,3.3781559308880826
+Chillax Cafe And Bistro,India,New Delhi,Rajinder Nagar,3.2638713575594642
+Jee Aao Jee Chole Bhature,India,New Delhi,Rajinder Nagar,3.155649129623497
+LSK Express,India,New Delhi,Rajinder Nagar,3.334900736313176
+Aggarwal Sweet Centre,India,New Delhi,Rajouri Garden,3.517421707031054
+Roasted - Roseate,India,New Delhi,"Roseate House, Aerocity",3.425902029993888
+Amor Kitchen,India,New Delhi,Safdarjung,3.0609983222559407
+CHA! WA!!,India,New Delhi,Safdarjung,3.3945858883560076
+Chip N Dale,India,New Delhi,Safdarjung,3.2651282126568586
+Chocolangels,India,New Delhi,Safdarjung,3.3294440082050394
+Home Kitchen,India,New Delhi,Safdarjung,3.110395153709219
+Laziz Foods,India,New Delhi,Safdarjung,3.133944676943398
+Mummy's Food Corner,India,New Delhi,Safdarjung,3.3110628972991103
+Riyaz Biryani Corner,India,New Delhi,Safdarjung,3.0815375584897016
+Safdarjung Club,India,New Delhi,Safdarjung,3.12623409215333
+Starup Catering,India,New Delhi,Safdarjung,3.0720987298891798
+The Chinese & Thai Restaurant,India,New Delhi,Safdarjung,3.2606543535037753
+Abdullah Biryani Centre,India,New Delhi,Sainik Farms,3.0800576693775152
+Allishan Family Restaurant,India,New Delhi,Sainik Farms,2.9075049819505265
+Bhawani Restaurant,India,New Delhi,Sainik Farms,2.951573262588385
+BonJuz,India,New Delhi,Sainik Farms,3.1293531770245675
+Chawla Chik Inn,India,New Delhi,Sainik Farms,3.013443438923924
+Foodies,India,New Delhi,Sainik Farms,2.92941303612996
+G+,India,New Delhi,Sainik Farms,2.9206491105766776
+Janta Canteen,India,New Delhi,Sainik Farms,2.8955622725529677
+Kalka's Food Centre,India,New Delhi,Sainik Farms,2.890219447908638
+Le Village Pastry Shop,India,New Delhi,Sainik Farms,2.9848840019657614
+Meatwale.com,India,New Delhi,Sainik Farms,2.9797586398391838
+Mohit Bakery,India,New Delhi,Sainik Farms,2.940728427625106
+Mouthmatics,India,New Delhi,Sainik Farms,2.9486380978706466
+Pastry Place,India,New Delhi,Sainik Farms,2.9741346803184125
+Pho King Awesome,India,New Delhi,Sainik Farms,3.1622410314492675
+PIE,India,New Delhi,Sainik Farms,3.148115053911792
+Rasoi - The Indian Zaika,India,New Delhi,Sainik Farms,2.9293956486752633
+Shree Balaji Bhojnalaya,India,New Delhi,Sainik Farms,2.8776956350468526
+Smoke Trailer Grill,India,New Delhi,Sainik Farms,3.0323060166046494
+Sonu Sweets,India,New Delhi,Sainik Farms,2.844943564571608
+Spice Treat,India,New Delhi,Sainik Farms,2.919125533131322
+Star Restaurant,India,New Delhi,Sainik Farms,2.87522247658976
+The Twisted Bakery,India,New Delhi,Sainik Farms,3.219302324576878
+Tiffino Mania,India,New Delhi,Sainik Farms,2.9911699271614585
+Yaadgaar,India,New Delhi,Sainik Farms,2.962959365117238
+Aradhya Restaurant,India,New Delhi,Saket,3.0782176499367577
+Nanu Ki Rasoi,India,New Delhi,Saket,3.092841230812792
+PSR Foods,India,New Delhi,Saket,3.1878164666237625
+Rasoi - The Indian Zaika,India,New Delhi,Saket,3.083262608685043
+Bikaner Sweets,India,New Delhi,Sarita Vihar,2.986462473272387
+Biryani Bot,India,New Delhi,Sarita Vihar,3.113966402596323
+Brij Ki Rasoi,India,New Delhi,Sarita Vihar,3.036658150341669
+Devika Restaurant,India,New Delhi,Sarita Vihar,3.0878570883292626
+Facebook Fast Food,India,New Delhi,Sarita Vihar,3.050065404464947
+Jo's Peace of Cake,India,New Delhi,Sarita Vihar,3.2326451026132212
+Kaka's Tiffin Service,India,New Delhi,Sarita Vihar,2.971875871596394
+MK Tiffin Service,India,New Delhi,Sarita Vihar,2.9929646224153226
+Moni Bakers,India,New Delhi,Sarita Vihar,3.069844205862239
+Nutri Lunch,India,New Delhi,Sarita Vihar,2.982302439285072
+Om Aggarwal Sweets,India,New Delhi,Sarita Vihar,2.950346350965123
+Sansar Hotel,India,New Delhi,Sarita Vihar,2.9913872480723667
+Shama Muradabadi Chicken Biryani,India,New Delhi,Sarita Vihar,3.097296254855193
+Cake Spot,India,New Delhi,Sarojini Nagar,3.229364181492455
+Chicken Point,India,New Delhi,Sarojini Nagar,3.19305125194252
+Chowringhee,India,New Delhi,Sarojini Nagar,3.1944994686974084
+Koolees Milkshake Bar,India,New Delhi,Sarojini Nagar,3.4794716843391833
+Krispy Kitchen,India,New Delhi,Sarojini Nagar,3.1066402561910262
+Mughlai Point,India,New Delhi,Sarojini Nagar,3.280599871091858
+Shama Chicken Corner,India,New Delhi,Sarojini Nagar,3.2048541435657136
+Crispers,India,New Delhi,Satyaniketan,3.5643328888574404
+Maharaja Food Club,India,New Delhi,SDA,3.105724843302373
+Sugar Rush,India,New Delhi,SDA,3.1324517835783765
+Aapki Rasoi,India,New Delhi,Shahdara,2.9649524091249506
+ADM Foodi,India,New Delhi,Shahdara,3.0089450241529967
+Aggarwal Bikaner Sweets Corner,India,New Delhi,Shahdara,2.958891398156689
+Aggarwal Petha Store and Bakers,India,New Delhi,Shahdara,2.97874509031856
+Aggarwal Sweet Fresh,India,New Delhi,Shahdara,2.9802820629096374
+Aggarwal Sweet India,India,New Delhi,Shahdara,2.9638703579280437
+Aggarwal Sweets,India,New Delhi,Shahdara,2.970250019324483
+Al-Taj Shamim Chicken Point,India,New Delhi,Shahdara,3.0703242327219886
+Apni Rasoi,India,New Delhi,Shahdara,2.8719350801530865
+Bikaner Sweets & Bakers,India,New Delhi,Shahdara,2.991181649534965
+Bikaner Sweets & Restaurant,India,New Delhi,Shahdara,2.97994480997255
+Bikaner Sweets,India,New Delhi,Shahdara,2.9608265244300362
+Bitoo Chat Corner,India,New Delhi,Shahdara,3.124135944360913
+Chaska,India,New Delhi,Shahdara,2.9842822617465137
+Chilli Tadka Food Villa,India,New Delhi,Shahdara,3.000414035823847
+China Town,India,New Delhi,Shahdara,2.9139522279741876
+Chinese Delight,India,New Delhi,Shahdara,2.980856622967681
+D Food,India,New Delhi,Shahdara,3.0011693756512967
+Da Bawarchi,India,New Delhi,Shahdara,3.0427231794313827
+Delhi Cafe Restaurant,India,New Delhi,Shahdara,3.0006816935829894
+Dosa Plaza,India,New Delhi,Shahdara,2.9621951677187717
+Ex- Taj Foods,India,New Delhi,Shahdara,2.996710017770903
+Fantasy Pastry Shop,India,New Delhi,Shahdara,3.103443975082762
+Gareeb Dhaba,India,New Delhi,Shahdara,3.052017945636256
+Hira Lal Sweets,India,New Delhi,Shahdara,3.0352888140820573
+Hot & Chilly Point,India,New Delhi,Shahdara,2.9828508227405077
+Hot Chinese & Fast Food,India,New Delhi,Shahdara,2.9812599025039725
+Jainco Sweets,India,New Delhi,Shahdara,3.0274402353992658
+Jony Sweets,India,New Delhi,Shahdara,3.102698545753987
+Laxmi Dairy,India,New Delhi,Shahdara,2.9957383214457556
+Madras Cafe,India,New Delhi,Shahdara,3.030286678941298
+Mehak Restaurant,India,New Delhi,Shahdara,3.0049844096247007
+Mr. Gold,India,New Delhi,Shahdara,3.1750594689445633
+New Madras Cafe,India,New Delhi,Shahdara,2.988064076400451
+Pizza Hub,India,New Delhi,Shahdara,2.9814023601802617
+Pizza Hub,India,New Delhi,Shahdara,3.072842973764961
+Prakash Sweets,India,New Delhi,Shahdara,2.99822046929862
+Punjabi Chaska & Rasoi,India,New Delhi,Shahdara,3.014619036484465
+Sagar,India,New Delhi,Shahdara,3.0467437682663245
+Sardar A Pure Meat Shop,India,New Delhi,Shahdara,2.976186788743785
+South Cafe,India,New Delhi,Shahdara,3.0344802060336975
+Sultan Chicken Corner,India,New Delhi,Shahdara,3.0728590219918352
+The AB's Kitchen,India,New Delhi,Shahdara,2.987365491042574
+Wah Ji Wah,India,New Delhi,Shahdara,2.8080003636449207
+Yum Yum,India,New Delhi,Shahdara,3.0692473559267643
+Zaika-e-Dilli,India,New Delhi,Shahdara,3.0158846747902217
+Aggarwal Bikaner Sweets,India,New Delhi,Shakarpur,3.1145058199128055
+Bikaner Sweets & Restaurant,India,New Delhi,Shakarpur,3.1805742880006846
+Cafe Coffee Day,India,New Delhi,Shakarpur,2.9021269111956016
+Cake'ry,India,New Delhi,Shakarpur,3.127875482238477
+Come 'n' Eat,India,New Delhi,Shakarpur,2.9748595517853174
+Darbar Chicken Corner,India,New Delhi,Shakarpur,3.0068748374168264
+Food Care,India,New Delhi,Shakarpur,2.9758728856430525
+Himalaya Momos,India,New Delhi,Shakarpur,3.056101811478986
+Hirdesh Eating Point,India,New Delhi,Shakarpur,3.005115758149503
+Joshi Eating House,India,New Delhi,Shakarpur,3.0092569804813802
+Just Veg,India,New Delhi,Shakarpur,2.977882236690678
+Natural Pizza Hub & Food Court,India,New Delhi,Shakarpur,3.0920720506750374
+Pawar's Food Court Inc.,India,New Delhi,Shakarpur,3.019058443939209
+Rajesh Eating Corner,India,New Delhi,Shakarpur,3.157009634602872
+Raju Ice Cream Parlor,India,New Delhi,Shakarpur,3.1920124294467955
+Sangam Ratna,India,New Delhi,Shakarpur,3.1280995799288798
+Tandoor & Curry Restaurant,India,New Delhi,Shakarpur,2.98012568449143
+Uttarakhand Eating Point,India,New Delhi,Shakarpur,3.003325545350836
+Uttranchal Eating Point,India,New Delhi,Shakarpur,2.9768265651993158
+Yummy Rasoi,India,New Delhi,Shakarpur,3.005970467903494
+Aunty Chings Fast Food,India,New Delhi,Shalimar Bagh,3.043459136085059
+Baba Chaap Wala,India,New Delhi,Shalimar Bagh,3.1458279256885646
+Cafe Coffee Day,India,New Delhi,Shalimar Bagh,3.0530567299271985
+Chick N Grills,India,New Delhi,Shalimar Bagh,3.184986208138987
+Choc-oholic,India,New Delhi,Shalimar Bagh,3.314114756055768
+Da Pizza Palace,India,New Delhi,Shalimar Bagh,3.2988587563053815
+Dosa Junction,India,New Delhi,Shalimar Bagh,3.1791159542331684
+Ganga Food Factory,India,New Delhi,Shalimar Bagh,3.1855291455452877
+Hot Wok,India,New Delhi,Shalimar Bagh,3.0622176646495047
+Ichak Dana,India,New Delhi,Shalimar Bagh,3.182099423257147
+Madras Dosa & Chinese,India,New Delhi,Shalimar Bagh,3.079731910933085
+Mashoor Gulati,India,New Delhi,Shalimar Bagh,3.1284336217472974
+Nidhi's Cake Lounge,India,New Delhi,Shalimar Bagh,3.2096993211334652
+Night Diner,India,New Delhi,Shalimar Bagh,3.0721121512414618
+Nirula's Ice Cream,India,New Delhi,Shalimar Bagh,3.2333555974726664
+Niti Shake & Ice Cream Hub,India,New Delhi,Shalimar Bagh,3.407769791855782
+Raja Chinese Foods & Snacks,India,New Delhi,Shalimar Bagh,3.0434026943195844
+Royal Chicken Corner,India,New Delhi,Shalimar Bagh,3.067592365474022
+Shalimar Food,India,New Delhi,Shalimar Bagh,3.2169960439889307
+Shalimar Vyanjan,India,New Delhi,Shalimar Bagh,3.031194564426144
+The Urban Canteen,India,New Delhi,Shalimar Bagh,3.151217807021381
+Lush,India,New Delhi,Shastri Park,3.447683537323514
+7 Colours Xpress Kitchen,India,New Delhi,South Extension 1,3.0293079782520946
+Royal Cakes,India,New Delhi,South Extension 1,3.2163487069088985
+Street Cafe,India,New Delhi,South Extension 1,3.1724775042309554
+Street Cafe,India,New Delhi,South Extension 1,3.1732373011178856
+Anand Sweets,India,New Delhi,South Extension 2,3.252400089563996
+Cafe Corner,India,New Delhi,South Extension 2,3.2225211317774187
+Chocolics,India,New Delhi,South Extension 2,3.377868056594317
+ChocoLite,India,New Delhi,South Extension 2,3.3788904492100693
+F Marquee,India,New Delhi,South Extension 2,3.324085655739439
+Republic of Chicken,India,New Delhi,South Extension 2,3.108036615296409
+Special Chicken Biryani,India,New Delhi,South Extension 2,3.258587933479946
+13 Cafe,India,New Delhi,Subhash Nagar,3.2310531447140862
+Aggarwal Sweet Corner,India,New Delhi,Subhash Nagar,2.964422583812345
+Babu Meat Wala,India,New Delhi,Subhash Nagar,3.0715490650060193
+Batra Chinese Food & Chaap,India,New Delhi,Subhash Nagar,3.008432750938476
+Celebration Family Restaurant,India,New Delhi,Subhash Nagar,2.9995528871201804
+Ching Chinese,India,New Delhi,Subhash Nagar,3.0180713137339037
+Choices An Absolute BBQ,India,New Delhi,Subhash Nagar,3.0307138544415144
+Delhi-27,India,New Delhi,Subhash Nagar,2.9991553329084777
+Desi Kukkad,India,New Delhi,Subhash Nagar,3.0406566058733144
+Freezy,India,New Delhi,Subhash Nagar,3.146904158764369
+Gourmet Bistro,India,New Delhi,Subhash Nagar,3.184802991860977
+Jiya Amritsari Naan,India,New Delhi,Subhash Nagar,3.0252781534165742
+Kedgy Bite,India,New Delhi,Subhash Nagar,3.030756817378934
+Khera's Foodie Corner,India,New Delhi,Subhash Nagar,3.0369449556003145
+Lajwab Pastry Palace,India,New Delhi,Subhash Nagar,3.0631290123609434
+Madan Sweets & Bakers,India,New Delhi,Subhash Nagar,2.9973958428617236
+Momo's King,India,New Delhi,Subhash Nagar,3.025132067948653
+New Pishori Chicken Kabab,India,New Delhi,Subhash Nagar,3.0801309970942494
+New Sindhi Chicken Corner,India,New Delhi,Subhash Nagar,3.072445566630059
+Radha Swami Chaat Bhandar,India,New Delhi,Subhash Nagar,3.1072491843857692
+Rajender Di Punjabi Rasoi,India,New Delhi,Subhash Nagar,3.001642504604722
+Ram Ji Snacks & Food Corner,India,New Delhi,Subhash Nagar,3.1176122675616487
+Ram Ram Ji Kachori Bhandar,India,New Delhi,Subhash Nagar,3.0692380851528895
+Rana's Food Corner,India,New Delhi,Subhash Nagar,3.027228919616891
+Sanjay Chicken Shop,India,New Delhi,Subhash Nagar,3.0304498903885744
+Sharma Ji Spring Roll,India,New Delhi,Subhash Nagar,3.055822624313783
+Shree Raja Ram,India,New Delhi,Subhash Nagar,2.9973094690988953
+South Indian Hut,India,New Delhi,Subhash Nagar,3.0566337643741464
+Special Moradabadi Chicken Corner,India,New Delhi,Subhash Nagar,3.105242249475917
+Standard Pastry Shop,India,New Delhi,Subhash Nagar,3.175694257036186
+Sushil Punjabi Vaishno Dhaba,India,New Delhi,Subhash Nagar,3.0168171084055686
+Variety of Shawarmas,India,New Delhi,Subhash Nagar,3.0556202916847908
+Vrindavan Sweets,India,New Delhi,Subhash Nagar,3.0604420147728724
+ATM Bistro,India,New Delhi,Sunder Nagar,3.550425049708507
+Ajeet Fast Food Corner,India,New Delhi,Tagore Garden,3.186528387667985
+Al Changezi,India,New Delhi,Tagore Garden,3.231465318452928
+Dolce Gelato,India,New Delhi,Tagore Garden,3.3047475233991843
+Dragon Way,India,New Delhi,Tagore Garden,3.0921774640591835
+Foodaholic,India,New Delhi,Tagore Garden,3.053482016589344
+Indian Chinese Fast Food,India,New Delhi,Tagore Garden,3.074817323370892
+Jagadeesh Kharodewala,India,New Delhi,Tagore Garden,3.0958323949465947
+Punjabi Shahi Chicken Soup,India,New Delhi,Tagore Garden,3.0767227873517604
+Ramu Ka Dhaba,India,New Delhi,Tagore Garden,3.2261836548863787
+Sardar Ji Chicken Corner,India,New Delhi,Tagore Garden,3.1500675445290574
+Satguru Tiffin Service,India,New Delhi,Tagore Garden,3.094431919744299
+Seth Baker's,India,New Delhi,Tagore Garden,3.3084383322241324
+Sri Durga Dosa Corner,India,New Delhi,Tagore Garden,3.2099242253069598
+V S Cafe,India,New Delhi,Tagore Garden,3.1855460702814105
+Vijay South Indian Food,India,New Delhi,Tagore Garden,3.2034591818449547
+Stuffed Kathi Roll,India,New Delhi,"The India Mall, New Friends Colony",3.0874195954644414
+Chatori Gali,India,New Delhi,Tilak Marg,3.257580174424513
+Annapurna Caters,India,New Delhi,Tilak Nagar,3.050274881747663
+Ashoka's Ice Zone,India,New Delhi,Tilak Nagar,3.393537059348186
+Bikaner Sweets & Pastry Corner,India,New Delhi,Tilak Nagar,2.9941746240964893
+Bikaner Sweets,India,New Delhi,Tilak Nagar,3.0181734016607185
+Dee Pizza Hub,India,New Delhi,Tilak Nagar,3.074978064561228
+Flavors of London,India,New Delhi,Tilak Nagar,3.1977075108632245
+Funduz Cafe,India,New Delhi,Tilak Nagar,3.096165595916947
+Giani,India,New Delhi,Tilak Nagar,3.2298980150108507
+Grover Sweets Rajouri Wala,India,New Delhi,Tilak Nagar,3.0493024374028623
+Guru Kripa Chicken Corner,India,New Delhi,Tilak Nagar,3.0545722082433757
+Health-O-Lic,India,New Delhi,Tilak Nagar,3.1765745638586282
+Himalya Chinese,India,New Delhi,Tilak Nagar,3.004304478290372
+KindBhutani's,India,New Delhi,Tilak Nagar,3.0034344524149335
+Mama Bhanja Corner,India,New Delhi,Tilak Nagar,3.064124070911771
+Mama Tao,India,New Delhi,Tilak Nagar,3.008574239067602
+Manpasand Punjabi Zaika,India,New Delhi,Tilak Nagar,3.0055741137759933
+Pal Restaurant,India,New Delhi,Tilak Nagar,3.0352594511183764
+Pizza Station,India,New Delhi,Tilak Nagar,3.1103550188941846
+Punjabi Dhaba,India,New Delhi,Tilak Nagar,3.0150769751360045
+Punjabi Virsa,India,New Delhi,Tilak Nagar,3.104829091799389
+Sahib Jhatka Chicken Shop,India,New Delhi,Tilak Nagar,3.0548436426382324
+Salt & Peppers,India,New Delhi,Tilak Nagar,3.0240902953193873
+Sethi Ice Cream Parlour,India,New Delhi,Tilak Nagar,3.304607849030934
+Shah Ji Di Rasoi,India,New Delhi,Tilak Nagar,3.1721387621998245
+Shawarma Wala,India,New Delhi,Tilak Nagar,3.105859338185188
+Snazzy Delights,India,New Delhi,Tilak Nagar,3.148049916222625
+South Indian Hut,India,New Delhi,Tilak Nagar,3.0661866443384476
+T-2 Di Hatti,India,New Delhi,Tilak Nagar,3.1291933260865266
+The Second Wife Kitchen,India,New Delhi,Tilak Nagar,3.059616418462598
+Today Pizza,India,New Delhi,Tilak Nagar,3.0934880273015413
+Turban Tadka,India,New Delhi,Tilak Nagar,3.0420838024591013
+Wah Shah Ji Wah,India,New Delhi,Tilak Nagar,3.0498590017704625
+Wah Wah Chicken Corner,India,New Delhi,Tilak Nagar,3.048386365726143
+Brijwasi Sweet and Namkeen,India,New Delhi,Trilokpuri,3.275817848491373
+Aggarwal Jalebi Wale,India,New Delhi,Uttam Nagar,2.962496714565806
+Aggarwal Sweets,India,New Delhi,Uttam Nagar,2.9055898271912035
+Arora Pastry Palace,India,New Delhi,Uttam Nagar,2.9613900681286425
+Chinese Chatorey Xpress,India,New Delhi,Uttam Nagar,2.90829536857418
+Chocochill,India,New Delhi,Uttam Nagar,3.160980108640211
+Da Pizza Zone,India,New Delhi,Uttam Nagar,2.9783838944569316
+Food N Shakes,India,New Delhi,Uttam Nagar,2.9471663877658463
+Green Chick Chop,India,New Delhi,Uttam Nagar,3.034747831641972
+Grover Sweets,India,New Delhi,Uttam Nagar,2.945457026047854
+J V's Fried Chicken,India,New Delhi,Uttam Nagar,2.9850141781047004
+Kamal Chat Bhandar,India,New Delhi,Uttam Nagar,2.988932939449063
+Khalsa Chicken Corner,India,New Delhi,Uttam Nagar,2.9935403375197036
+Lala Da Shudh Vaishno Dhaba,India,New Delhi,Uttam Nagar,2.9535351021587672
+Madras Cafe,India,New Delhi,Uttam Nagar,2.965823360370069
+New China Town,India,New Delhi,Uttam Nagar,2.940317772657975
+Pick & Carry,India,New Delhi,Uttam Nagar,2.991432594259032
+Punjabi Chicken,India,New Delhi,Uttam Nagar,2.962972848799576
+Sandwiches 'N' More,India,New Delhi,Uttam Nagar,2.947343846322843
+Sapna Restaurant,India,New Delhi,Uttam Nagar,2.818501472412164
+Sargam Sweets,India,New Delhi,Uttam Nagar,3.0299909610456863
+Tandoori Theka,India,New Delhi,Uttam Nagar,2.922392293236183
+The Darjiling Delicious Chinese Food,India,New Delhi,Uttam Nagar,2.952668354378633
+Veg Darbar - The Royal Taste,India,New Delhi,Uttam Nagar,2.9350847160734777
+Veg. Darbar,India,New Delhi,Uttam Nagar,2.93511012489409
+Cookfresh,India,New Delhi,Vasant Kunj,3.754896351295155
+Anthony's Kitchen,India,New Delhi,Vasant Vihar,3.104723387469956
+Bakermania,India,New Delhi,Vasant Vihar,3.235241437363775
+Cafe Coffee Day,India,New Delhi,Vasant Vihar,3.0722705256494054
+Cones & Curries,India,New Delhi,Vasant Vihar,3.102305052481616
+Giani,India,New Delhi,Vasant Vihar,3.33338119749816
+Kaptain Bakery,India,New Delhi,Vasant Vihar,3.2556526188206565
+Kayasth Cuisine,India,New Delhi,Vasant Vihar,3.3930275732364112
+Mahinder Food Corner,India,New Delhi,Vasant Vihar,3.2282061735330663
+Mohanty Bakery & Confectionery,India,New Delhi,Vasant Vihar,3.2499085938535144
+Practically Perfect,India,New Delhi,Vasant Vihar,3.3543610415691316
+Take Away Depot,India,New Delhi,Vasant Vihar,3.11214915908315
+The Artful Baker,India,New Delhi,Vasant Vihar,3.26067608298012
+Adi's Restaurant,India,New Delhi,Vasundhara Enclave,3.057232547393509
+Aggarwal Sweet & Bakers,India,New Delhi,Vasundhara Enclave,3.0317365537516547
+Aggarwal Sweets,India,New Delhi,Vasundhara Enclave,3.113517309215495
+Aggarwal Sweets,India,New Delhi,Vasundhara Enclave,2.9730484723979758
+Always Eat Green,India,New Delhi,Vasundhara Enclave,3.0056168672631456
+Anjali Resaturant,India,New Delhi,Vasundhara Enclave,3.0442393161037398
+Annapoorna Bhojanalya,India,New Delhi,Vasundhara Enclave,3.019010693275129
+Anupam Eating Point,India,New Delhi,Vasundhara Enclave,3.0330527512852123
+Bikaner Rasoi,India,New Delhi,Vasundhara Enclave,3.052747401178803
+Cafe Mom,India,New Delhi,Vasundhara Enclave,3.017700161907446
+Cafe Youth,India,New Delhi,Vasundhara Enclave,3.0033068021996225
+Cake Express,India,New Delhi,Vasundhara Enclave,3.1436014996729855
+Cake Knighter,India,New Delhi,Vasundhara Enclave,3.151160229885842
+Catchup Green,India,New Delhi,Vasundhara Enclave,3.0985686315547207
+D Food,India,New Delhi,Vasundhara Enclave,3.1227161875373426
+Delicious Cake,India,New Delhi,Vasundhara Enclave,3.151160229885842
+Famous Parantha and Poori Sabzi,India,New Delhi,Vasundhara Enclave,3.0044187493432153
+FM Biryani Point,India,New Delhi,Vasundhara Enclave,3.1139692562347325
+Food Plaza,India,New Delhi,Vasundhara Enclave,3.0458810493172317
+Foodiez,India,New Delhi,Vasundhara Enclave,3.1493524062181852
+Goli Vada Pav No. 1,India,New Delhi,Vasundhara Enclave,3.04614233295322
+Hyderabad's Delight,India,New Delhi,Vasundhara Enclave,3.1824607643951084
+Khan Tandoori Hub,India,New Delhi,Vasundhara Enclave,3.088487106084602
+Khan Tandoori Nights,India,New Delhi,Vasundhara Enclave,3.133811525091926
+Meatwale.com,India,New Delhi,Vasundhara Enclave,3.1265134973940762
+New Aggarwal Sweets & Fast Food,India,New Delhi,Vasundhara Enclave,2.966352175144908
+Night Munchers,India,New Delhi,Vasundhara Enclave,3.0517979995485653
+Old Moradabadi Chicken Corner,India,New Delhi,Vasundhara Enclave,3.0534938319825233
+Richa's Bakery,India,New Delhi,Vasundhara Enclave,3.1438650575536915
+Riyaz Biryani Corner,India,New Delhi,Vasundhara Enclave,3.0450724180185453
+Rudra The Dhaba,India,New Delhi,Vasundhara Enclave,3.044426311761807
+Seven Star Pizza,India,New Delhi,Vasundhara Enclave,3.098449461190846
+Shahi Muradabadi Chicken Biryani,India,New Delhi,Vasundhara Enclave,3.113790488975795
+Shree Krishna Restaurant,India,New Delhi,Vasundhara Enclave,3.0256515390509584
+Shree Sai Bhog,India,New Delhi,Vasundhara Enclave,2.999544159258903
+Soni Food Court,India,New Delhi,Vasundhara Enclave,3.0329423084549036
+South Street Cafe,India,New Delhi,Vasundhara Enclave,3.1245863912022163
+Special Chicken Biryani,India,New Delhi,Vasundhara Enclave,3.0864063988883856
+Sweets n Treats,India,New Delhi,Vasundhara Enclave,3.0898373897984373
+The Royal Prestige,India,New Delhi,Vasundhara Enclave,2.995425460789661
+Twenty Four Seven,India,New Delhi,Vasundhara Enclave,3.0499423225983113
+Two Friends Roll Corner,India,New Delhi,Vasundhara Enclave,3.0635408341670365
+Waikiki,India,New Delhi,Vasundhara Enclave,3.0250367548511026
+Zaika Chicken Corner,India,New Delhi,Vasundhara Enclave,3.045075903416608
+Zombiez,India,New Delhi,Vasundhara Enclave,3.021260076401971
+Chennai Express,India,New Delhi,Vikas Marg,3.106165729553531
+Brick Station,India,New Delhi,Vikaspuri,3.2387218678303764
+Food Factory,India,New Delhi,Vikaspuri,3.0149031441307517
+Pastry Point,India,New Delhi,Vikaspuri,3.0707725930759784
+Prem Jee Da Dhaba,India,New Delhi,Vikaspuri,3.0606269161342614
+Cheese Bitez Pizza,India,New Delhi,Vivek Vihar,3.122235314056793
+Goyal Sweets,India,New Delhi,Vivek Vihar,3.0354221410152404
+Gulati's Takeaway,India,New Delhi,Vivek Vihar,3.048109312105848
+Jyoti Sweets,India,New Delhi,Vivek Vihar,3.0960312061047928
+Momos Hi Momos,India,New Delhi,Vivek Vihar,3.005199521224987
+New Bhappe Di Hatti,India,New Delhi,Vivek Vihar,3.0836391419481313
+Oven Fresh,India,New Delhi,Vivek Vihar,3.1818514758081173
+Rupa Ice Cream Parlour,India,New Delhi,Vivek Vihar,3.3062224452019136
+Scoopers 'n' Bakers,India,New Delhi,Vivek Vihar,3.165552478192151
+South Indian Food Plaza,India,New Delhi,Vivek Vihar,3.171725754686831
+Super Snacks,India,New Delhi,Vivek Vihar,3.0393028684793677
+Unique Pastry,India,New Delhi,Vivek Vihar,3.2715616542041355
+Veg Food Express,India,New Delhi,Vivek Vihar,3.0769576373512573
+Chill Out,India,New Delhi,Wazirpur,3.3104453173919035
+Chilli Chinese,India,New Delhi,Wazirpur,3.03823862183357
+Asia Seven Express,India,New Delhi,"Worldmark 1, Aerocity",3.015385677412727
+Bikanervala,India,New Delhi,"Worldmark 1, Aerocity",3.481840759093708
+Cafe Huddle,India,New Delhi,"Worldmark 1, Aerocity",3.1288193230535866
+Chai Garam,India,New Delhi,"Worldmark 1, Aerocity",3.1514565666273775
+Dolce Gelato,India,New Delhi,"Worldmark 1, Aerocity",3.3085628214405167
+GoGourmet,India,New Delhi,"Worldmark 1, Aerocity",3.4564703764492917
+Karim's,India,New Delhi,"Worldmark 1, Aerocity",3.20148464721034
+Khan Chacha,India,New Delhi,"Worldmark 1, Aerocity",3.1023044319582995
+Pizza Hut Delivery,India,New Delhi,"Worldmark 1, Aerocity",3.031324975659315
+Foodhall,India,New Delhi,"Worldmark 3, Aerocity",3.4307441693506684
+EDC Mania,India,New Delhi,Yusuf Sarai,3.1025227650792155
+Faeem Chicken Corner,India,New Delhi,Yusuf Sarai,3.146473184562293
+Grills N Chills,India,New Delhi,Yusuf Sarai,3.1144172857347527
+Gupta Sweets,India,New Delhi,Yusuf Sarai,3.009969963022482
+Khub Chand,India,New Delhi,Yusuf Sarai,3.1365525942601638
+OCD - Online Cake Delivery,India,New Delhi,Yusuf Sarai,3.2081278731026375
+Sher E Punjab,India,New Delhi,Yusuf Sarai,3.0565175695518283
+Shri Balaji,India,New Delhi,Yusuf Sarai,3.116737938771923
+Sidhi Cafe,India,New Delhi,Yusuf Sarai,3.07071294265084
+Al Hayat Bakers,India,New Delhi,Zakir Nagar,3.2717438476845757
+Al-Kausar's,India,New Delhi,Zakir Nagar,3.1396262483802846
+Alam Biryani Center,India,New Delhi,Zakir Nagar,3.327881215963354
+Bismillah Hotel,India,New Delhi,Zakir Nagar,3.2411099650282855
+Halal Pizza Star,India,New Delhi,Zakir Nagar,3.1415983827907805
+HTW Bakers,India,New Delhi,Zakir Nagar,3.374682808338867
+Javed Bawarchi Restaurant,India,New Delhi,Zakir Nagar,3.3138880469580334
+Let's Eat,India,New Delhi,Zakir Nagar,3.3489178730232227
+Moonis Kada,India,New Delhi,Zakir Nagar,3.225889917919331
+Motu N Patlu,India,New Delhi,Zakir Nagar,3.1393182089102005
+S.K. Fast Food,India,New Delhi,Zakir Nagar,3.118111120502241
+Sufiyan Restaurant,India,New Delhi,Zakir Nagar,3.313709546522384
+The Relax Point,India,New Delhi,Zakir Nagar,3.1739977406142827
+Zareen's Dastarkhwan,India,New Delhi,Zakir Nagar,3.5337759889235634
+Savoury Street,India,Noida,"Ansal Plaza Mall, Greater Noida",3.1597539709525866
+The Feast Box,India,Noida,"Ganga Shopping Complex, Sector 29",3.5302533947997823
+Baskin Robbins,India,Noida,"Gardens Galleria, Sector 38 Noida",3.3903431219593494
+Cafe Coffee Day,India,Noida,"Gardens Galleria, Sector 38 Noida",3.1757572901990976
+Dolce Gelato,India,Noida,"Gardens Galleria, Sector 38 Noida",3.4930053953983617
+Dunkin' Donuts,India,Noida,"Gardens Galleria, Sector 38 Noida",3.5408579158987927
+Joost Juice Bar,India,Noida,"Gardens Galleria, Sector 38 Noida",3.5596797359581434
+KFC,India,Noida,"Gardens Galleria, Sector 38 Noida",3.237569334747107
+Pizza Hut,India,Noida,"Gardens Galleria, Sector 38 Noida",3.485114384557455
+Rocket Food,India,Noida,Golf Course,3.1352815539575207
+Baskin Robbins,India,Noida,Greater Noida,3.0330006968828096
+Evergreen Food Point,India,Noida,Greater Noida,2.790056501675587
+Food Plaza,India,Noida,Greater Noida,2.9071359206703424
+Giani,India,Noida,Greater Noida,2.991593650084983
+Grill Inn,India,Noida,Greater Noida,2.9677931984748995
+Hunger's Hut,India,Noida,Greater Noida,2.869384123792237
+Kanha Cake O' Pastry,India,Noida,Greater Noida,2.978855110089229
+Serendipity Cafe,India,Noida,Greater Noida,3.1438916497814238
+Spice Affair,India,Noida,Greater Noida,2.9195931993363686
+Tandoori Junction,India,Noida,Greater Noida,2.943219077246783
+Tod-Bistro Cafe,India,Noida,Greater Noida,2.967327949428702
+Upper Deck,India,Noida,Greater Noida,2.9943792515633607
+Vadilal Ice Cream Parlour,India,Noida,Greater Noida,3.0562288099553125
+Wich 'N' Shake,India,Noida,Greater Noida,2.9960030999819804
+Airborne,India,Noida,"Hotel Golf View, Sector 37, Noida",3.016407138808503
+Vivino - Hotel Golf View,India,Noida,"Hotel Golf View, Sector 37, Noida",3.1944755446435353
+Sadda Adda,India,Noida,"Jaipuria Plaza, Sector 26, Noida",3.222329039395513
+The Butler & The Chef - Jaypee Greens,India,Noida,"Jaypee Greens, Greater Noida, Noida",3.247892225028202
+Baskin Robbins,India,Noida,"Logix City Centre, Sector 32, Noida",3.1460816950230868
+Cha Cha Cha,India,Noida,"Logix City Centre, Sector 32, Noida",3.156726836347236
+Chai Thela,India,Noida,"Logix City Centre, Sector 32, Noida",3.0142167675708884
+Costa Coffee,India,Noida,"Logix City Centre, Sector 32, Noida",3.07780728129036
+Dolce Gelato,India,Noida,"Logix City Centre, Sector 32, Noida",3.162624796226117
+Joost Juice Bar,India,Noida,"Logix City Centre, Sector 32, Noida",3.218060389184842
+Juice Lounge,India,Noida,"Logix City Centre, Sector 32, Noida",3.0517732213736544
+Kings Kulfi,India,Noida,"Logix City Centre, Sector 32, Noida",3.203198972791134
+Kwality Wall's Swirl's,India,Noida,"Logix City Centre, Sector 32, Noida",3.2670326787005384
+Mx Corn,India,Noida,"Logix City Centre, Sector 32, Noida",3.014913489898639
+The Gaming Vegas,India,Noida,"Logix City Centre, Sector 32, Noida",3.075299748171263
+Kwality Wall's Swirl's,India,Noida,"Logix Cyber Park, Sector 62, Noida",3.204775869280291
+My Corn,India,Noida,"Logix Cyber Park, Sector 62, Noida",3.0952431075702207
+Golden Chaat,India,Noida,"MSX Mall, Greater Noida",2.9863991260691827
+Malt n Brew,India,Noida,"Park Ascent, Sector 62, Noida",3.1526579163289923
+Foodicious,India,Noida,Sector 1,3.1711028017058203
+Rasoi Dil Se,India,Noida,Sector 1,3.0386846324993746
+Food Express,India,Noida,Sector 10,2.963675016586564
+Lemonier,India,Noida,Sector 10,3.118761990892385
+Punjabi Zaika,India,Noida,Sector 10,2.978260185781803
+Robins Sweets & Restaurant,India,Noida,Sector 10,3.0482227160094792
+Rendezvous Adda,India,Noida,Sector 11,3.0863638595455476
+Wow Noodle,India,Noida,Sector 11,3.0836410582297225
+Wraps Cafe,India,Noida,Sector 11,3.128135157581589
+Affamato,India,Noida,Sector 110,3.0329360411284156
+Ahmed's,India,Noida,Sector 110,2.9942639076877082
+Caff�� La Poya,India,Noida,Sector 110,3.431822154157965
+Chaskaa Restaurant,India,Noida,Sector 110,2.982419090360014
+Chawla's 2,India,Noida,Sector 110,2.9832775290484395
+Chination,India,Noida,Sector 110,3.028207297895337
+Essen Foods,India,Noida,Sector 110,3.027582561352572
+Haochi,India,Noida,Sector 110,3.028570264660791
+Lassilo,India,Noida,Sector 110,3.048443041635315
+Mittal Bikaneri Sweets,India,Noida,Sector 110,2.8961394860933964
+Royale Bakers,India,Noida,Sector 110,3.161304020283038
+RV's Family Restaurant,India,Noida,Sector 110,3.0929827898007654
+The Cake Shop,India,Noida,Sector 110,3.0050699137840184
+Top Food,India,Noida,Sector 110,2.997560043932965
+Uncle's Corner,India,Noida,Sector 110,3.074163278080281
+Urban Express,India,Noida,Sector 110,2.986600639483859
+Viddya Chinese Fast Food,India,Noida,Sector 110,3.029391247712081
+Cream Bell Scoopers,India,Noida,Sector 12,3.174887401726564
+Mayur Kitchen,India,Noida,Sector 12,2.993891616178726
+Raghav Ki Rasoi,India,Noida,Sector 12,3.008747853555213
+Red Chilli,India,Noida,Sector 12,2.866144838418787
+Riyaz Biryani Corner,India,Noida,Sector 12,3.0657914613203623
+Standard Sweets & Confectioners,India,Noida,Sector 12,2.923830229406037
+Standard Sweets,India,Noida,Sector 12,2.9029925296672694
+Sushma Homemade Tiffin,India,Noida,Sector 12,2.9744968855734046
+The Tasty Corner,India,Noida,Sector 12,2.9720096752440743
+The Zaika King,India,Noida,Sector 12,2.999791749549267
+Tiffinhunt,India,Noida,Sector 12,3.0137420296244297
+Top Burger,India,Noida,Sector 12,3.0176127593403406
+Hunger's Hub,India,Noida,Sector 125,3.0777420520030656
+Modi's Baker's Zone,India,Noida,Sector 125,3.0622619530356054
+The Flip On Wheel,India,Noida,Sector 125,3.13300409195626
+Big Biryani,India,Noida,Sector 127,3.2312191714689407
+Aureo Dine & Bake House,India,Noida,Sector 132,2.9920460315602746
+B Bawarchi Restaurant,India,Noida,Sector 132,2.975501704133129
+Brajwasi,India,Noida,Sector 132,2.994617056265352
+Cafe Coffee Day,India,Noida,Sector 132,2.904968061776872
+Cafe Coffee Day,India,Noida,Sector 132,2.850752666731664
+Cafe Lounge,India,Noida,Sector 132,3.1020919543586514
+Cafe Treat,India,Noida,Sector 132,3.174738969852835
+Casa Bake,India,Noida,Sector 132,3.0258185494169174
+China Town,India,Noida,Sector 132,2.849811042559703
+Costa Coffee,India,Noida,Sector 132,3.052511819422305
+Delhi Foods,India,Noida,Sector 132,2.9683943810682516
+Deli Chic,India,Noida,Sector 132,2.9679656975061848
+Delicacies,India,Noida,Sector 132,3.007748529782533
+Kanha Ji Sweets & Restaurant,India,Noida,Sector 132,2.8667581377487243
+Little China,India,Noida,Sector 132,2.9171616501968005
+Lola's Cafe,India,Noida,Sector 132,3.0913324376221567
+Madras Coffee House,India,Noida,Sector 132,3.129078315006497
+Moju Juice Bar,India,Noida,Sector 132,3.1847959252227867
+Peniel Restaurant,India,Noida,Sector 132,2.980743168995579
+Pizza Key,India,Noida,Sector 132,2.9482318544041597
+Sandoz,India,Noida,Sector 132,2.867274738805815
+Subway,India,Noida,Sector 132,2.914774439320208
+Tandoori Mystery,India,Noida,Sector 132,2.9922222659081763
+Taste of Punjab,India,Noida,Sector 132,2.9664696918824225
+Tea Nation,India,Noida,Sector 132,3.031860202915474
+The Corporate Kitchen,India,Noida,Sector 132,2.9714681239562415
+The Royal Kitchen,India,Noida,Sector 132,2.941101473445535
+Tpot,India,Noida,Sector 132,3.019615057145982
+Wild Chef House,India,Noida,Sector 132,3.2655163800005105
+Cake N Gifts,India,Noida,Sector 15,3.1136142514921943
+Cheese Pizza,India,Noida,Sector 15,3.101139373761801
+Divya Hotal,India,Noida,Sector 15,3.013977889949893
+Green Valley Chinese Food,India,Noida,Sector 15,2.9940647939961655
+Hooting Owl Cafe,India,Noida,Sector 15,3.213231978895312
+Jaak Foods,India,Noida,Sector 15,2.9701927928007272
+Kaka Restaurant,India,Noida,Sector 15,3.060360962546051
+KC Bakers,India,Noida,Sector 15,3.0930844804323536
+KC Bakery,India,Noida,Sector 15,3.1330778906563754
+Rajan Foods Corner,India,Noida,Sector 15,3.050131894072905
+Sagar Dhaba,India,Noida,Sector 15,3.0287673746422157
+Sarfira,India,Noida,Sector 15,3.1021284151324893
+Shama Chicken Corner,India,Noida,Sector 15,3.0779141610426537
+Yummy Kitchen,India,Noida,Sector 15,3.0604094184502744
+Cafe Coffee Day,India,Noida,Sector 16,2.968849323198812
+Dunkin' Donuts,India,Noida,Sector 16,3.3987293607733617
+Green Chilli Fast Food,India,Noida,Sector 16,2.9796980909421884
+Street Food Corner,India,Noida,Sector 16,2.9815666878006177
+Night Munchers,India,Noida,Sector 19,3.004215243241834
+Night Munchies,India,Noida,Sector 19,2.938298905517123
+Ahaar Udyan,India,Noida,Sector 2,2.944530957583135
+Choco Bee,India,Noida,Sector 2,3.0969135762490874
+Crazy Noodles,India,Noida,Sector 2,3.5001107312004294
+Dakshin Platter,India,Noida,Sector 2,3.0544853726261865
+Kathi Junction,India,Noida,Sector 2,3.056023266526282
+Sonu Parantha Corner,India,Noida,Sector 2,3.012717665885517
+Eating Point,India,Noida,Sector 20,3.080753590118958
+Twenty Four Seven,India,Noida,Sector 21,3.035517137122915
+Alam Muradabadi & Hyderabadi Biryani,India,Noida,Sector 22,3.102364090318596
+Bala Ji Raja Dhaba,India,Noida,Sector 22,3.0210742483225275
+Brijwasi Dhaba,India,Noida,Sector 22,3.0211054068595695
+Prerna Family Restaurant,India,Noida,Sector 22,2.974301080689889
+Rana Dhaba,India,Noida,Sector 22,3.0167060922871585
+The Food Factory,India,Noida,Sector 22,3.011528398780797
+Gauranga Sweets,India,Noida,Sector 25,3.059271879072604
+Green Valley Chinese Food,India,Noida,Sector 25,2.995770322151294
+Dev Food,India,Noida,Sector 26,2.9951272647936555
+Delight Food,India,Noida,Sector 27,3.0312346532429086
+Hungro,India,Noida,Sector 27,2.9321573765053857
+Shiparma Shri,India,Noida,Sector 27,2.9520184725775573
+Shri Adarsh Kulfi,India,Noida,Sector 27,3.1323179297576917
+Simla Bakery,India,Noida,Sector 27,3.145079502874166
+Swad E Punjab,India,Noida,Sector 27,3.0019734723596407
+Vishnu Ki Rasoi,India,Noida,Sector 27,2.9691961791905115
+Maharba Chicken Point,India,Noida,Sector 29,3.239969530859825
+Sweet Spells,India,Noida,Sector 29,3.362671967010585
+Bollycric,India,Noida,Sector 3,2.9075424013501143
+The Kitchen Factory,India,Noida,Sector 3,2.9869663582570167
+Food Town,India,Noida,Sector 31,2.9170353567215157
+The Big Chefs,India,Noida,Sector 31,2.8722841167464086
+The Big Scoop,India,Noida,Sector 31,3.305158167941475
+Bunz & Dogz,India,Noida,Sector 33,3.1417239858639476
+Radha Rani Bakery,India,Noida,Sector 33,3.338289510088194
+Cafe Krisa,India,Noida,Sector 34,3.265759241170433
+Chill Grill,India,Noida,Sector 34,3.0949252998263126
+Dolce Gelato,India,Noida,Sector 34,3.160153207944017
+Maa Ka Khaana,India,Noida,Sector 34,3.0112414053046015
+The Beer Cafe,India,Noida,Sector 34,3.0756228335994575
+Biryani Vice,India,Noida,Sector 37,3.1759345993025905
+Chinese Chilly Sizzler,India,Noida,Sector 37,3.097741440703542
+Moonlight Cafe,India,Noida,Sector 37,3.4693780857728944
+Sugar Ruffles,India,Noida,Sector 37,3.2769186933944745
+Baskin Robbins,India,Noida,Sector 38,3.153848544446653
+Cafe Buddy's,India,Noida,Sector 38,3.062488250544215
+Fusionn Rolls,India,Noida,Sector 38,2.9796219365455774
+Kwality Walls - Happiness Station,India,Noida,Sector 38,3.321754697663458
+Shakti Food & Restaurant,India,Noida,Sector 38,3.033657054696131
+Antaryami Paratha Corner,India,Noida,Sector 4,3.049973056105075
+Green Restaurant,India,Noida,Sector 40,2.98804242278183
+Biryani,India,Noida,Sector 41,3.184538970310916
+C Cube,India,Noida,Sector 41,3.10534165636457
+Chicago Pizza,India,Noida,Sector 41,2.9164017801099718
+Kettle & Kegs,India,Noida,Sector 41,3.3513361179646117
+Keventers,India,Noida,Sector 41,3.2495264453386805
+Keventers,India,Noida,Sector 41,3.244380450580766
+Navab's,India,Noida,Sector 41,3.075476177102731
+Nawabi Mughlai Zaika Food Van,India,Noida,Sector 41,3.055107432069561
+NS Punjabi Swad,India,Noida,Sector 41,3.017421731210506
+Pitstop,India,Noida,Sector 41,3.082389726940793
+Royal Spice Restaurant,India,Noida,Sector 41,3.024631672600205
+Sethi's,India,Noida,Sector 41,3.117249495139759
+Snacks Parties,India,Noida,Sector 41,3.085081445989429
+44 Grills,India,Noida,Sector 44,3.088997064604503
+Ammi's Kitchen,India,Noida,Sector 44,3.1494043910880776
+Bangali Restaurant,India,Noida,Sector 44,2.999337197958384
+Home Cafe,India,Noida,Sector 44,3.0931056489859765
+Hot Chilli Food Plaza,India,Noida,Sector 44,3.049879781321625
+Kanak Kitchen,India,Noida,Sector 44,3.0696095634344926
+Speziato Foods,India,Noida,Sector 44,3.0695575169590525
+The Golden Spoon,India,Noida,Sector 44,3.013280401722203
+The Saffron Plant Restaurant,India,Noida,Sector 44,3.0196111163028143
+Zaika Tiffin Center,India,Noida,Sector 44,2.9472117213769145
+Balaji Restaurant & Sweets,India,Noida,Sector 45,3.064684351940894
+Baskin Robbins,India,Noida,Sector 45,3.1445098889326335
+Baskin Robbins,India,Noida,Sector 45,3.2006293128957535
+Chandu Chat Bhandar,India,Noida,Sector 45,3.1626746994298083
+Foodies Park,India,Noida,Sector 45,2.9409992309504913
+Bhojanam4u,India,Noida,Sector 47,3.046508854718459
+Chocadoodledoo,India,Noida,Sector 47,3.069103209572587
+Chocolate Therapy by Nishi,India,Noida,Sector 47,3.1367258845144583
+Cookie House,India,Noida,Sector 47,3.121190455116249
+Amazing Burgers,India,Noida,Sector 48,3.0880802669287624
+Kitchen Express,India,Noida,Sector 48,3.0035158573420864
+Shaivi's Kitchen,India,Noida,Sector 49,2.9244146590303393
+Goyal Chhole Kulche Wala,India,Noida,Sector 5,3.2815783442477713
+Big Biryani,India,Noida,Sector 50,3.006296731222611
+Cupcakes & More,India,Noida,Sector 50,3.207968407621453
+Heavens Food Xprs,India,Noida,Sector 50,2.889273586413217
+Parul's Cooking Hub,India,Noida,Sector 50,2.961036512660239
+Republic of Chicken,India,Noida,Sector 50,2.921896803457968
+Somethings Sweet,India,Noida,Sector 50,3.0927234582651995
+Ayush Chicken Point,India,Noida,Sector 51,2.992048760514499
+Baby Got Bacon,India,Noida,Sector 51,3.1911871330562023
+Better Butter Chicken,India,Noida,Sector 51,3.031836242110402
+Black Pepper,India,Noida,Sector 51,2.9782484366537325
+Chandni Chowk 2 China,India,Noida,Sector 51,2.986853815891872
+Choco N Lush,India,Noida,Sector 51,3.232332754838219
+Friend's Restaurant,India,Noida,Sector 51,2.95485115606155
+Ghar Ka Khana,India,Noida,Sector 51,3.015688038731791
+Ghar Ka Swad,India,Noida,Sector 51,2.9733728806218185
+Kake Da Dhaba,India,Noida,Sector 51,3.191841122933564
+Knight Kitchens,India,Noida,Sector 51,3.0026898337371906
+Lucknow Heritage,India,Noida,Sector 51,3.302688284663389
+Momos Box,India,Noida,Sector 51,3.1934667187059347
+Raging Bull - The Spicy Punch,India,Noida,Sector 51,3.255862692203621
+Second Home,India,Noida,Sector 51,2.945538242693884
+The Big Buddha Grill,India,Noida,Sector 51,3.551158604090938
+Whatslife.in,India,Noida,Sector 51,3.0346427025531444
+52 Food Express,India,Noida,Sector 52,2.981159190987211
+Delicious Treasure,India,Noida,Sector 52,3.04788302717591
+Shiv Murti Hotel,India,Noida,Sector 52,3.0326170514076427
+Bake Walkers,India,Noida,Sector 53,3.1811767326093037
+Chacha Food Street,India,Noida,Sector 53,2.9614531627844602
+DudeFood,India,Noida,Sector 53,3.00778238365148
+Indian Special Hot Momos,India,Noida,Sector 53,2.9296382971186694
+Kesarwa Bakez,India,Noida,Sector 53,3.1661142605074626
+Om Bikaner Sweets,India,Noida,Sector 53,3.009452642638827
+Sadda Adda 2 Cafe & Lounge,India,Noida,Sector 53,3.1758670007138026
+The Backyard Chef,India,Noida,Sector 53,2.999603904160339
+Veer Jee,India,Noida,Sector 53,2.9898376436165384
+VP ki Kitchen,India,Noida,Sector 53,2.9750530480094803
+Sector 55 China Town,India,Noida,Sector 55,3.002511248990064
+Food Hut,India,Noida,Sector 56,2.992611909316338
+South Indian Snacks Stall,India,Noida,Sector 56,3.0537106158491434
+Twenty Four Seven,India,Noida,Sector 57,3.0099660491950075
+A1 Restaurant,India,Noida,Sector 58,2.985599250974235
+Aggarwal Sweets India,India,Noida,Sector 58,2.915781369989456
+Chaska Food Hut,India,Noida,Sector 58,2.9629515857946256
+Hasty Tasty Fast Food,India,Noida,Sector 58,2.9652182134743046
+Pihu's Cafe,India,Noida,Sector 58,3.0215498451444294
+Sanjay Pandit Bhojnalaya,India,Noida,Sector 58,2.9705174121721925
+Sharma Hotel,India,Noida,Sector 58,2.9514156769015414
+Shri G,India,Noida,Sector 58,2.951249409143366
+Essen Foods,India,Noida,Sector 59,2.988153317527709
+L'amore,India,Noida,Sector 59,3.1211591115313295
+SPL Food Corner,India,Noida,Sector 59,2.9820815628258215
+Chauhan Fast Food,India,Noida,Sector 60,3.0122448897360545
+Right for Night,India,Noida,Sector 60,3.0654777933464388
+Whatslife.in,India,Noida,Sector 60,2.919520479124845
+Cafe Coffee Day,India,Noida,Sector 61,2.975473967869558
+Dev Food,India,Noida,Sector 61,2.907245212553109
+Green Vally Chiiness Food,India,Noida,Sector 61,2.9904124285573275
+Aggarwal Bikaneri Sweets & Restaurant,India,Noida,Sector 62,2.9476566657411283
+Al-Aayat Mughlai Biryani,India,Noida,Sector 62,3.055197940868691
+Baba Chinese Fast Food,India,Noida,Sector 62,2.9833872681063482
+Cafe Coffee Day,India,Noida,Sector 62,2.892704078351545
+Cafe Rap,India,Noida,Sector 62,3.0649613550420947
+Chinese Fast Food Corner,India,Noida,Sector 62,2.990607623733893
+Chinese Food Corner,India,Noida,Sector 62,2.975743463612226
+Chinese Hot,India,Noida,Sector 62,2.9846932880585997
+Dial a Cake,India,Noida,Sector 62,3.0400384540666985
+Doon Dhaba,India,Noida,Sector 62,3.0233817168717945
+Food Weavers,India,Noida,Sector 62,3.032781852023316
+Green Chick Chop,India,Noida,Sector 62,2.9924041053522514
+Hookie Dookie,India,Noida,Sector 62,3.1457100236059876
+Hotel Green View Palace,India,Noida,Sector 62,3.0381114517997982
+Hurry Curry Express,India,Noida,Sector 62,2.9809620954281986
+Kesarwa Bakez,India,Noida,Sector 62,3.1885934390687813
+Let's Noodle,India,Noida,Sector 62,2.9585262627956395
+New Dragon Chinese Fast Food  & Paranthey Wala,India,Noida,Sector 62,3.0100836324160065
+New Shahi Chinese Fast Food,India,Noida,Sector 62,3.0130920300660216
+Night Food Delivery,India,Noida,Sector 62,2.968809973284804
+Rajwana Foods,India,Noida,Sector 62,3.0550522114968004
+Shama Chicken Corner,India,Noida,Sector 62,2.989935953371048
+Shiva Shudh Shakahari Bhojnalaya,India,Noida,Sector 62,2.998724270597543
+Shri Balaji Shudh Vaishno Dhaba,India,Noida,Sector 62,2.9989276529942357
+Southern Santushti Cafe,India,Noida,Sector 62,3.0221083877491255
+Tiffin Man House,India,Noida,Sector 62,2.9992674931021055
+WOW Zaika,India,Noida,Sector 62,3.0056503558978216
+Chaiwaalas,India,Noida,Sector 63,3.0452172202564727
+Delhi Mughlai Biryani,India,Noida,Sector 63,3.19497357449555
+Dumpty's,India,Noida,Sector 63,3.0245492132783283
+Food Passengers,India,Noida,Sector 63,3.03395923652782
+Hungry Buddies,India,Noida,Sector 63,3.0489645639455705
+Maa Durga Food Corner,India,Noida,Sector 63,3.007444781221033
+Subhoj,India,Noida,Sector 63,3.103983510348117
+The Square Meal,India,Noida,Sector 63,3.0572535906258316
+Twenty Four Seven,India,Noida,Sector 63,3.031004487060488
+Yeoh,India,Noida,Sector 63,3.2801335497454787
+Lazeez Foods,India,Noida,Sector 65,2.9969113818334367
+Spicy Punjabi Tadka,India,Noida,Sector 65,2.996544869388281
+SPL Foods Plaza,India,Noida,Sector 65,2.9440689161085367
+Super Cake Shop,India,Noida,Sector 65,2.8921506125380594
+Sweetcake.in,India,Noida,Sector 7,3.1012123681239228
+Let's Burrrp,India,Noida,Sector 71,2.959957394805373
+Annapurna Caterings,India,Noida,Sector 71,3.0021793219081987
+Beyond Food,India,Noida,Sector 71,3.009956792814126
+Brown Town,India,Noida,Sector 71,3.0079474792009675
+Royal Spice,India,Noida,Sector 71,2.9917316443964665
+4U,India,Noida,Sector 72,2.986060053256428
+Aadhya Bakery & Foods,India,Noida,Sector 72,3.0384943518249186
+Bake Walkers,India,Noida,Sector 72,3.1688650491270103
+Bean Machine & Co.,India,Noida,Sector 72,3.3129080334737924
+Big B Pastry Shop,India,Noida,Sector 72,3.062514131130759
+Breadman Cake Shop,India,Noida,Sector 72,3.0689553064562167
+Breaky2Dinner,India,Noida,Sector 72,2.998270627156856
+Brijwasi Sweets,India,Noida,Sector 72,2.8826879949246873
+Cafe Hot Pot,India,Noida,Sector 72,2.9931769574591134
+Chef's Curry,India,Noida,Sector 72,3.036452231331111
+Dilli Bakery,India,Noida,Sector 72,3.071434995801506
+Domino's Pizza,India,Noida,Sector 72,2.7174058433614174
+Dove And Mouse,India,Noida,Sector 72,3.237533388170578
+Food Cabana,India,Noida,Sector 72,2.975142656572604
+Frozen Grillz,India,Noida,Sector 72,3.0232175212353027
+Ganesh Chinese Food Corner,India,Noida,Sector 72,3.010027278707554
+Green Chick Chop,India,Noida,Sector 72,2.99115326530868
+Handi Mitran Di,India,Noida,Sector 72,3.1398542023722436
+Hunger Tales,India,Noida,Sector 72,3.1046831876121805
+Hydrabad Biryani Express,India,Noida,Sector 72,3.02242520604935
+Ice Stone Cafe,India,Noida,Sector 72,3.085639850391334
+Kake Da Dhaba,India,Noida,Sector 72,3.0011665989053524
+Lucknow Wale Kwality Kabab,India,Noida,Sector 72,3.0341998152125997
+Mairu's,India,Noida,Sector 72,3.075324728119771
+Meatwale.com,India,Noida,Sector 72,3.005819222490563
+Mr. Biryani Walia,India,Noida,Sector 72,3.0681770393418404
+N E Great Foods,India,Noida,Sector 72,3.0738632387660623
+New Punjabi Tadka,India,Noida,Sector 72,3.0247078066981645
+Royal King,India,Noida,Sector 72,3.1120495429975623
+The Dhaba,India,Noida,Sector 72,3.0264591476253253
+Tikka Express meets Chennai Express,India,Noida,Sector 72,3.0079480581831692
+Vyanjan,India,Noida,Sector 72,3.0342658489905046
+Yolkers,India,Noida,Sector 72,3.053133398466734
+Zaika Kathi Rolls,India,Noida,Sector 72,3.042219230134152
+Zaika of Dilli 6,India,Noida,Sector 72,3.05851620748871
+Cream Bell,India,Noida,Sector 8,3.3165929413894153
+Baskin Robbins,India,Noida,Sector 93,3.180173712072978
+Choicest Cakes,India,Noida,Sector 93,3.072307608829008
+Midnight Foodies,India,Noida,Sector 93,3.1071427489092525
+Om Sweets Caterers & Bakery,India,Noida,Sector 93,2.957142112740982
+Spicy Affair,India,Noida,Sector 93,3.1092110709331253
+The Bakery Mart,India,Noida,Sector 93,3.117936675377493
+Fire n Ice,India,Noida,"Shopprix Mall, Sector 61, Noida",3.0317825576840054
+6 Packs Momos,India,Noida,"Spice World Mall, Sector 25",2.973555048023332
+Balti,India,Noida,"Spice World Mall, Sector 25",3.021327323283284
+Baskin Robbins,India,Noida,"Spice World Mall, Sector 25",3.141095813130595
+KBC�_,India,Noida,"Spice World Mall, Sector 25",3.0358810637121305
+Nukkad Bites,India,Noida,"Spice World Mall, Sector 25",3.153191496573018
+Pan Asian Noodles,India,Noida,"Spice World Mall, Sector 25",2.984963414255046
+Adarsh Kulfi,India,Noida,"Supertech Shopprix Mall, Sector 61",3.1010812759739856
+Pizza Junction,India,Noida,"Supertech Shopprix Mall, Sector 61",2.96877218257763
+Cafe' Wow,India,Noida,"The Great India Place, Sector 38",3.192945991911704
+Chef's Basket Pop Up Caf��,India,Noida,"The Great India Place, Sector 38",3.100648879015413
+Chocolate Fountain,India,Noida,"The Great India Place, Sector 38",3.2764473926447977
+McDonald's,India,Noida,"The Great India Place, Sector 38",3.2550928114652486
+Tea Trails,India,Noida,"The Great India Place, Sector 38",3.398029955725826
+The Hangout-Deli,India,Noida,"The Great India Place, Sector 38",3.5150771916758567
+Bread & Pasta,India,Noida,"Tulip Mall, Sector 48, Noida",3.1661520062544204
+Chillies Cafe,India,Noida,"Tulip Mall, Sector 48, Noida",3.1562015970455763
+Platters,India,Noida,"Tulip Mall, Sector 48, Noida",3.0637190657652353
+The Grand,India,Noida,"Tulip Mall, Sector 48, Noida",3.1748574330407275
+Damascena Coffee House,United Kingdom,Birmingham,Moseley,3.9835509598797874

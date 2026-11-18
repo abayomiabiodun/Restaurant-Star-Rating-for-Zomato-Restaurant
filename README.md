@@ -201,7 +201,7 @@ Choose **Kernel → Restart & Run All**. For a fast smoke test, set the environm
 
 ---
 
-## 👤 Author
+## Author
 
 **Abayomi Abiodun**
 Senior Data Scientist · Founder, Data Fanatics Community
